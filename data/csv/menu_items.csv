@@ -1,0 +1,3001 @@
+item_id,restaurant_id,name,category,price
+1,23,Nam Platter,Desserts,600.5
+2,38,Perferendis Deluxe,Breads,596.62
+3,90,Qui Bowl,Sides,688.07
+4,99,Neque Bowl,Starters,186.56
+5,41,Nemo Thali,Rice & Biryani,529.74
+6,14,Repellat Platter,Breads,298.38
+7,10,Aut Deluxe,Beverages,786.78
+8,22,Debitis Wrap,Main Course,666.25
+9,86,Ipsum Wrap,Beverages,384.97
+10,34,Temporibus Deluxe,Rice & Biryani,569.88
+11,45,Aut Combo,Main Course,590.31
+12,7,Odio Platter,Combos,599.44
+13,22,Omnis Platter,Combos,711.33
+14,45,Vero Bowl,Sides,126.07
+15,62,Quas Thali,Rice & Biryani,171.99
+16,10,Laborum Thali,Starters,271.18
+17,41,Debitis Combo,Main Course,105.65
+18,22,Quod Platter,Breads,598.99
+19,71,Tempore Special,Beverages,495.52
+20,79,Repudiandae Platter,Starters,373.49
+21,84,Ducimus Deluxe,Sides,167.83
+22,13,Delectus Combo,Rice & Biryani,780.8
+23,53,Non Wrap,Desserts,545.45
+24,39,Provident Deluxe,Main Course,87.23
+25,74,Aspernatur Bowl,Combos,165.19
+26,47,Cupiditate Special,Sides,115.72
+27,106,Quas Wrap,Combos,199.76
+28,4,Dolor Deluxe,Breads,528.64
+29,11,Incidunt Platter,Main Course,281.27
+30,51,Doloremque Platter,Combos,721.16
+31,34,Dolorem Special,Sides,188.66
+32,114,Iste Platter,Beverages,189.94
+33,6,Voluptatum Combo,Combos,398.79
+34,29,Et Thali,Desserts,473.18
+35,20,Laborum Thali,Main Course,114.28
+36,45,Quas Thali,Sides,778.03
+37,76,Id Deluxe,Starters,680.6
+38,105,Beatae Bowl,Sides,774.22
+39,88,Explicabo Thali,Combos,479.54
+40,31,Eius Platter,Desserts,109.22
+41,116,Tempora Thali,Starters,426.58
+42,116,Quod Bowl,Breads,140.21
+43,97,Harum Platter,Breads,761.8
+44,22,Debitis Deluxe,Rice & Biryani,144.64
+45,55,Sunt Special,Sides,201.44
+46,106,Incidunt Wrap,Breads,675.58
+47,34,Sint Combo,Main Course,115.27
+48,72,Quibusdam Platter,Beverages,692.47
+49,67,Consectetur Platter,Starters,639.91
+50,80,Provident Bowl,Sides,134.39
+51,20,Temporibus Deluxe,Main Course,743.7
+52,73,Dolores Thali,Main Course,639.31
+53,112,Rerum Bowl,Beverages,708.42
+54,34,Repellendus Platter,Combos,479.02
+55,61,Dolor Special,Breads,256.56
+56,19,Dolores Bowl,Sides,79.09
+57,114,Unde Combo,Rice & Biryani,86.97
+58,61,Soluta Combo,Beverages,65.17
+59,105,Sed Thali,Desserts,283.21
+60,108,Labore Platter,Main Course,779.37
+61,30,Recusandae Deluxe,Desserts,780.66
+62,57,Animi Thali,Beverages,252.06
+63,54,Aliquam Bowl,Main Course,190.95
+64,28,Beatae Thali,Sides,605.71
+65,98,Aperiam Bowl,Beverages,665.76
+66,66,Temporibus Thali,Breads,99.21
+67,91,Repellat Bowl,Sides,151.74
+68,109,Fuga Bowl,Starters,180.3
+69,113,Totam Thali,Rice & Biryani,677.73
+70,32,Eos Special,Combos,87.92
+71,47,Rem Wrap,Rice & Biryani,255.48
+72,106,Nesciunt Platter,Sides,526.56
+73,16,Sit Wrap,Starters,231.45
+74,63,Tempore Bowl,Combos,183.19
+75,112,Aliquam Platter,Beverages,308.19
+76,108,Praesentium Combo,Main Course,263.8
+77,50,Sunt Special,Breads,690.37
+78,100,Quisquam Deluxe,Rice & Biryani,535.53
+79,87,Illum Deluxe,Desserts,538.69
+80,66,Temporibus Special,Starters,405.57
+81,17,Incidunt Wrap,Breads,500.86
+82,2,Perspiciatis Deluxe,Desserts,506.26
+83,40,Exercitationem Wrap,Desserts,367.86
+84,49,Vitae Thali,Beverages,394.25
+85,28,Necessitatibus Platter,Desserts,557.9
+86,106,In Bowl,Sides,488.37
+87,1,Odit Bowl,Beverages,471.09
+88,77,Aut Bowl,Desserts,273.86
+89,14,Voluptas Platter,Main Course,302.21
+90,36,Assumenda Wrap,Beverages,696.12
+91,34,Dolore Wrap,Desserts,191.27
+92,67,Nulla Thali,Rice & Biryani,724.77
+93,104,Nesciunt Thali,Sides,545.4
+94,88,Perspiciatis Deluxe,Starters,541.55
+95,38,Officiis Combo,Sides,353.45
+96,95,Enim Special,Rice & Biryani,307.38
+97,92,Laboriosam Deluxe,Combos,729.89
+98,86,Sequi Combo,Desserts,684.06
+99,108,Dicta Wrap,Breads,270.34
+100,61,Ipsam Deluxe,Desserts,593.89
+101,72,Ipsum Thali,Breads,760.19
+102,116,Laborum Combo,Main Course,216.69
+103,29,Natus Wrap,Desserts,365.35
+104,114,Delectus Combo,Beverages,245.42
+105,38,Maxime Platter,Main Course,402.9
+106,111,Quam Wrap,Main Course,404.16
+107,25,Ratione Bowl,Main Course,700.62
+108,49,Corrupti Bowl,Desserts,359.83
+109,112,Ipsum Thali,Breads,153.02
+110,26,Excepturi Combo,Sides,790.39
+111,115,Omnis Platter,Breads,287.29
+112,92,Cupiditate Deluxe,Main Course,415.69
+113,81,Fugiat Deluxe,Beverages,525.87
+114,1,Odio Platter,Desserts,207.04
+115,100,Expedita Deluxe,Breads,417.18
+116,98,Dicta Thali,Main Course,147.05
+117,56,Consequatur Wrap,Sides,352.55
+118,62,Architecto Platter,Starters,78.29
+119,26,Illum Wrap,Beverages,762.55
+120,115,Molestiae Combo,Rice & Biryani,63.44
+121,1,Sint Wrap,Rice & Biryani,219.7
+122,113,Nihil Combo,Desserts,146.7
+123,50,Expedita Bowl,Desserts,175.27
+124,106,Dolore Special,Desserts,761.35
+125,59,Itaque Wrap,Beverages,375.25
+126,88,Repellat Deluxe,Beverages,797.1
+127,63,Ipsam Combo,Rice & Biryani,173.66
+128,117,Eaque Thali,Sides,64.34
+129,29,Dolore Wrap,Breads,208.39
+130,3,Praesentium Bowl,Breads,142.37
+131,92,Quam Wrap,Starters,331.39
+132,82,Omnis Combo,Starters,495.44
+133,7,Praesentium Wrap,Main Course,540.18
+134,3,Inventore Special,Main Course,362.58
+135,49,Praesentium Special,Desserts,405.8
+136,20,Adipisci Deluxe,Starters,275.84
+137,85,Consectetur Special,Desserts,517.1
+138,90,Mollitia Deluxe,Sides,672.99
+139,14,Quae Bowl,Main Course,262.03
+140,101,Officia Special,Combos,198.98
+141,26,Excepturi Thali,Desserts,673.62
+142,26,Esse Combo,Sides,271.51
+143,6,Reprehenderit Bowl,Combos,732.77
+144,89,Libero Platter,Beverages,225.88
+145,2,Architecto Wrap,Main Course,730.16
+146,107,Architecto Bowl,Combos,161.86
+147,12,Id Thali,Main Course,592.67
+148,13,Possimus Combo,Rice & Biryani,392.56
+149,38,Saepe Combo,Combos,87.56
+150,105,Ullam Deluxe,Starters,689.19
+151,47,Veniam Thali,Beverages,369.5
+152,15,Optio Special,Starters,57.25
+153,18,Illo Wrap,Breads,296.5
+154,115,Quidem Platter,Desserts,708.86
+155,12,Accusamus Combo,Beverages,187.15
+156,52,Corrupti Platter,Combos,253.87
+157,50,Non Wrap,Combos,649.92
+158,84,Deleniti Thali,Breads,134.79
+159,90,Fuga Wrap,Starters,786.18
+160,109,Maiores Deluxe,Main Course,362.02
+161,76,Necessitatibus Platter,Combos,185.95
+162,49,Maiores Thali,Beverages,508.52
+163,111,Aperiam Wrap,Breads,412.31
+164,63,Natus Special,Sides,380.52
+165,9,Asperiores Combo,Beverages,59.27
+166,112,Reiciendis Wrap,Rice & Biryani,783.42
+167,86,Ratione Thali,Beverages,439.32
+168,89,Earum Wrap,Main Course,374.64
+169,94,Magni Deluxe,Combos,309.31
+170,87,Quod Wrap,Sides,161.49
+171,106,Illo Bowl,Starters,58.73
+172,120,Aut Deluxe,Combos,688.9
+173,112,Molestiae Deluxe,Main Course,613.57
+174,42,Quae Deluxe,Beverages,777.61
+175,7,Odio Bowl,Rice & Biryani,462.87
+176,49,Quo Platter,Rice & Biryani,109.12
+177,57,Hic Thali,Combos,116.01
+178,64,Soluta Platter,Beverages,139.03
+179,64,Vero Wrap,Starters,126.98
+180,53,Similique Special,Starters,669.43
+181,102,Cumque Bowl,Desserts,717.58
+182,72,Debitis Deluxe,Combos,762.77
+183,47,Consequatur Thali,Starters,662.44
+184,109,Mollitia Platter,Beverages,470.11
+185,80,Minima Bowl,Combos,587.49
+186,47,Labore Wrap,Combos,135.52
+187,98,Quos Wrap,Rice & Biryani,51.65
+188,46,Maiores Thali,Desserts,460.77
+189,48,Dicta Wrap,Main Course,84.33
+190,22,Eius Platter,Breads,666.38
+191,96,Sed Wrap,Sides,130.22
+192,79,Quaerat Deluxe,Rice & Biryani,140.56
+193,110,Natus Platter,Rice & Biryani,392.78
+194,101,Provident Deluxe,Beverages,130.82
+195,54,Animi Special,Main Course,629.11
+196,58,Aperiam Platter,Breads,772.89
+197,1,Amet Bowl,Starters,464.92
+198,56,Deserunt Thali,Combos,743.28
+199,100,Iusto Deluxe,Breads,597.87
+200,17,Pariatur Special,Sides,543.14
+201,78,Quas Combo,Sides,364.0
+202,78,Odit Wrap,Rice & Biryani,255.2
+203,44,Distinctio Combo,Combos,653.6
+204,18,Sequi Platter,Desserts,682.31
+205,71,Quam Thali,Beverages,583.91
+206,120,Deserunt Bowl,Rice & Biryani,200.67
+207,80,Itaque Wrap,Desserts,564.96
+208,118,Similique Wrap,Breads,786.0
+209,84,Ipsum Deluxe,Beverages,582.76
+210,98,Dolorem Combo,Combos,487.1
+211,86,Mollitia Wrap,Sides,555.68
+212,115,Sint Thali,Desserts,708.11
+213,55,In Thali,Starters,442.05
+214,4,Rerum Platter,Breads,89.8
+215,8,Labore Deluxe,Desserts,612.64
+216,21,Quae Combo,Desserts,159.82
+217,8,Quaerat Wrap,Desserts,203.0
+218,70,Quibusdam Special,Beverages,660.52
+219,14,Porro Bowl,Rice & Biryani,606.81
+220,72,Voluptatum Platter,Rice & Biryani,433.19
+221,102,Recusandae Thali,Desserts,569.7
+222,7,In Platter,Sides,362.42
+223,101,Pariatur Wrap,Beverages,774.37
+224,7,Ad Special,Desserts,202.32
+225,112,Maxime Thali,Combos,672.49
+226,117,Iure Wrap,Beverages,616.33
+227,70,Veniam Wrap,Rice & Biryani,632.11
+228,25,Culpa Combo,Combos,183.07
+229,88,Nesciunt Special,Breads,771.86
+230,95,Reprehenderit Bowl,Main Course,332.9
+231,55,Inventore Combo,Desserts,147.55
+232,75,Voluptas Thali,Desserts,54.23
+233,60,Suscipit Wrap,Breads,79.96
+234,119,Alias Combo,Starters,630.25
+235,81,Saepe Bowl,Desserts,417.91
+236,74,Pariatur Bowl,Beverages,104.66
+237,91,Fuga Combo,Rice & Biryani,767.74
+238,67,Ullam Special,Breads,361.95
+239,69,Repellendus Platter,Main Course,312.05
+240,114,Repellat Deluxe,Beverages,298.3
+241,38,Eum Deluxe,Combos,797.47
+242,106,Asperiores Thali,Starters,136.04
+243,45,Reprehenderit Platter,Rice & Biryani,728.37
+244,79,Perferendis Bowl,Rice & Biryani,769.17
+245,88,Dolores Combo,Sides,736.95
+246,15,Qui Platter,Desserts,455.18
+247,37,Suscipit Special,Beverages,435.73
+248,66,Sit Platter,Combos,82.89
+249,115,Modi Wrap,Rice & Biryani,290.23
+250,11,Dignissimos Special,Breads,778.72
+251,99,Vero Bowl,Starters,520.2
+252,27,Exercitationem Wrap,Rice & Biryani,698.71
+253,55,Aliquid Thali,Main Course,204.18
+254,107,Rem Wrap,Sides,534.92
+255,10,Voluptates Wrap,Breads,67.81
+256,92,Culpa Combo,Starters,115.64
+257,7,Eaque Deluxe,Desserts,468.56
+258,74,Ad Thali,Rice & Biryani,733.24
+259,53,Nulla Platter,Combos,522.66
+260,56,Ipsam Combo,Starters,342.13
+261,16,Nihil Bowl,Starters,531.07
+262,80,Distinctio Special,Starters,575.66
+263,10,Neque Combo,Main Course,267.38
+264,88,Voluptas Combo,Main Course,261.14
+265,119,Enim Platter,Sides,346.33
+266,85,Neque Special,Combos,167.24
+267,29,Provident Deluxe,Sides,647.58
+268,109,Similique Bowl,Desserts,770.1
+269,19,Optio Combo,Beverages,768.04
+270,2,Assumenda Bowl,Breads,142.43
+271,1,Voluptatibus Bowl,Sides,452.86
+272,11,Deserunt Combo,Rice & Biryani,611.22
+273,116,Quas Wrap,Beverages,208.8
+274,116,Eos Wrap,Breads,170.72
+275,29,Ratione Bowl,Desserts,195.74
+276,24,Itaque Wrap,Starters,688.54
+277,120,Ut Bowl,Combos,533.51
+278,10,Perferendis Combo,Main Course,238.02
+279,26,Qui Wrap,Combos,763.65
+280,46,Minus Deluxe,Rice & Biryani,125.03
+281,80,Ipsam Special,Rice & Biryani,288.34
+282,58,Doloribus Combo,Desserts,570.09
+283,20,Officia Bowl,Beverages,655.77
+284,55,Quibusdam Deluxe,Starters,284.91
+285,101,Laboriosam Deluxe,Sides,257.51
+286,47,Quisquam Deluxe,Beverages,708.41
+287,60,Libero Platter,Beverages,631.08
+288,63,Veritatis Bowl,Main Course,181.83
+289,78,Vero Special,Desserts,694.04
+290,18,Temporibus Bowl,Rice & Biryani,247.43
+291,114,Voluptate Wrap,Main Course,595.57
+292,115,Fuga Special,Starters,659.48
+293,75,Similique Platter,Rice & Biryani,729.73
+294,71,Perspiciatis Combo,Combos,540.43
+295,20,Earum Combo,Sides,217.48
+296,99,Expedita Bowl,Desserts,150.41
+297,65,Hic Bowl,Main Course,347.59
+298,65,Quos Special,Rice & Biryani,685.99
+299,104,In Bowl,Breads,617.9
+300,18,Et Platter,Breads,184.36
+301,73,In Wrap,Breads,601.94
+302,62,Illo Combo,Starters,214.11
+303,63,Voluptatibus Deluxe,Main Course,248.27
+304,30,Eos Special,Rice & Biryani,438.41
+305,102,Voluptas Combo,Sides,402.26
+306,59,Voluptatibus Special,Starters,785.44
+307,42,Porro Special,Desserts,676.15
+308,34,Ipsum Bowl,Breads,332.49
+309,49,Perferendis Combo,Main Course,437.5
+310,49,Laudantium Deluxe,Sides,314.67
+311,112,Ratione Combo,Combos,644.49
+312,114,Harum Bowl,Starters,426.38
+313,18,Illo Platter,Breads,222.49
+314,66,Cupiditate Wrap,Desserts,208.64
+315,24,Rem Deluxe,Beverages,501.52
+316,105,Veritatis Special,Rice & Biryani,360.96
+317,43,Quisquam Wrap,Main Course,411.14
+318,62,Modi Platter,Rice & Biryani,493.09
+319,83,Nam Thali,Sides,66.83
+320,6,Laborum Deluxe,Breads,151.04
+321,66,Dignissimos Special,Breads,91.93
+322,34,Illum Deluxe,Sides,499.52
+323,73,Animi Wrap,Starters,708.88
+324,94,Illo Wrap,Desserts,760.44
+325,28,Beatae Platter,Combos,700.48
+326,22,Laborum Deluxe,Sides,500.63
+327,102,Numquam Bowl,Breads,517.41
+328,66,Ullam Combo,Breads,593.14
+329,44,Facere Platter,Main Course,222.36
+330,50,Perferendis Deluxe,Main Course,62.42
+331,67,Error Thali,Sides,669.89
+332,78,Eligendi Special,Breads,406.9
+333,79,Quidem Bowl,Starters,708.31
+334,69,Fugit Bowl,Main Course,119.89
+335,85,Ratione Deluxe,Starters,722.73
+336,100,Voluptatem Wrap,Sides,441.53
+337,48,Fugit Thali,Starters,573.23
+338,55,Deserunt Deluxe,Combos,642.17
+339,49,Corrupti Combo,Main Course,369.12
+340,33,Sint Platter,Rice & Biryani,732.56
+341,11,Repudiandae Combo,Sides,243.35
+342,1,Excepturi Wrap,Starters,483.49
+343,16,Exercitationem Bowl,Starters,331.27
+344,27,Architecto Wrap,Beverages,356.63
+345,14,Velit Deluxe,Sides,538.68
+346,33,Quia Combo,Sides,473.5
+347,79,Et Combo,Sides,616.23
+348,53,Tempore Bowl,Combos,184.04
+349,72,Eveniet Bowl,Combos,240.33
+350,40,Asperiores Bowl,Beverages,630.65
+351,51,Consequuntur Wrap,Breads,691.25
+352,85,Neque Special,Rice & Biryani,384.95
+353,90,Iure Deluxe,Main Course,210.84
+354,52,Optio Thali,Beverages,650.64
+355,79,Consequuntur Wrap,Starters,170.55
+356,82,Vero Special,Main Course,667.44
+357,61,Deserunt Bowl,Sides,116.11
+358,34,Ab Deluxe,Beverages,110.03
+359,5,Quo Wrap,Sides,748.01
+360,52,Dolore Bowl,Desserts,583.7
+361,77,Nemo Special,Breads,530.22
+362,57,Ullam Special,Rice & Biryani,687.93
+363,120,Pariatur Thali,Desserts,196.06
+364,101,Perferendis Bowl,Rice & Biryani,511.39
+365,87,Totam Special,Beverages,229.44
+366,1,Eligendi Deluxe,Main Course,797.61
+367,100,Illo Platter,Beverages,552.25
+368,52,Iste Bowl,Rice & Biryani,438.31
+369,95,Illo Wrap,Main Course,739.38
+370,71,Tenetur Combo,Beverages,310.61
+371,105,Assumenda Combo,Rice & Biryani,504.77
+372,25,Commodi Platter,Sides,481.18
+373,34,Totam Deluxe,Sides,429.68
+374,72,Rem Special,Desserts,304.97
+375,15,Eveniet Thali,Desserts,707.08
+376,105,Quibusdam Thali,Desserts,570.64
+377,49,Amet Bowl,Combos,627.48
+378,97,Doloribus Combo,Combos,561.2
+379,115,Nesciunt Bowl,Starters,411.48
+380,34,Dolorum Special,Sides,525.25
+381,29,Amet Wrap,Rice & Biryani,650.12
+382,53,Nam Combo,Starters,575.61
+383,34,Possimus Deluxe,Desserts,119.76
+384,87,Ea Wrap,Beverages,107.02
+385,120,Illum Deluxe,Combos,285.4
+386,28,Amet Bowl,Desserts,187.09
+387,96,Accusamus Wrap,Rice & Biryani,424.25
+388,26,In Deluxe,Rice & Biryani,704.56
+389,27,Reiciendis Deluxe,Rice & Biryani,676.21
+390,108,Sed Bowl,Beverages,167.0
+391,14,Corrupti Special,Main Course,556.86
+392,85,Iusto Platter,Starters,623.18
+393,70,Id Special,Combos,328.4
+394,41,Odit Platter,Desserts,418.1
+395,98,Temporibus Bowl,Desserts,348.41
+396,97,Quisquam Bowl,Breads,90.61
+397,103,Qui Platter,Combos,754.74
+398,5,Possimus Bowl,Beverages,345.29
+399,88,Deleniti Thali,Breads,392.9
+400,16,Quae Wrap,Combos,286.74
+401,2,Omnis Special,Rice & Biryani,334.57
+402,13,Fugit Combo,Beverages,509.58
+403,34,Earum Deluxe,Desserts,227.85
+404,61,Culpa Bowl,Beverages,324.44
+405,64,Iure Platter,Rice & Biryani,364.32
+406,97,Dolorem Combo,Beverages,690.74
+407,36,Officia Platter,Breads,478.56
+408,74,Tenetur Wrap,Rice & Biryani,660.64
+409,93,Facere Combo,Rice & Biryani,466.51
+410,110,Ea Platter,Rice & Biryani,159.38
+411,95,Accusantium Deluxe,Combos,654.25
+412,23,Labore Platter,Combos,150.85
+413,115,Impedit Thali,Beverages,639.0
+414,39,Reiciendis Combo,Starters,348.8
+415,89,Veniam Deluxe,Starters,211.6
+416,33,Earum Platter,Main Course,387.39
+417,43,Doloribus Combo,Beverages,320.23
+418,72,Similique Thali,Desserts,308.11
+419,53,Tempore Special,Beverages,700.53
+420,78,Necessitatibus Deluxe,Breads,784.53
+421,37,Nobis Combo,Beverages,554.89
+422,63,Quam Thali,Combos,717.22
+423,49,Itaque Bowl,Desserts,397.81
+424,19,Commodi Thali,Breads,530.44
+425,119,Natus Combo,Sides,523.46
+426,74,Velit Platter,Main Course,109.33
+427,44,Consequatur Deluxe,Beverages,287.66
+428,38,Ea Wrap,Desserts,504.04
+429,51,Deserunt Combo,Combos,635.73
+430,47,Perferendis Wrap,Combos,360.49
+431,24,Iste Thali,Starters,143.78
+432,31,Expedita Wrap,Desserts,755.33
+433,90,Ab Wrap,Main Course,207.93
+434,51,Facilis Special,Main Course,97.84
+435,113,Molestiae Platter,Starters,69.77
+436,51,Ex Bowl,Main Course,127.95
+437,80,Occaecati Deluxe,Main Course,541.12
+438,114,Fugiat Platter,Desserts,222.02
+439,95,Iure Combo,Combos,519.86
+440,17,Incidunt Bowl,Breads,71.43
+441,85,Reprehenderit Combo,Beverages,698.18
+442,60,Rem Thali,Desserts,461.41
+443,18,Accusamus Wrap,Breads,493.12
+444,59,Facilis Wrap,Sides,442.59
+445,82,Ullam Bowl,Desserts,731.69
+446,62,Magni Bowl,Rice & Biryani,653.53
+447,57,Voluptate Combo,Beverages,359.15
+448,20,Ex Combo,Starters,50.07
+449,105,Assumenda Thali,Breads,307.91
+450,61,Vel Bowl,Starters,565.83
+451,63,Cumque Thali,Combos,274.71
+452,99,Omnis Platter,Desserts,497.75
+453,102,Inventore Special,Beverages,191.43
+454,113,Dolore Bowl,Sides,346.06
+455,21,Necessitatibus Wrap,Sides,671.32
+456,29,Vitae Combo,Main Course,366.68
+457,31,Provident Bowl,Desserts,263.51
+458,96,Voluptatibus Bowl,Desserts,359.68
+459,110,Ipsa Special,Breads,152.47
+460,15,Voluptas Wrap,Combos,513.3
+461,35,Cumque Wrap,Combos,190.84
+462,3,Tempore Deluxe,Starters,777.29
+463,3,Impedit Deluxe,Main Course,261.59
+464,17,Maxime Wrap,Combos,595.33
+465,30,Sint Special,Breads,61.04
+466,28,Est Combo,Sides,283.68
+467,103,Est Platter,Beverages,397.76
+468,102,Deleniti Special,Beverages,110.17
+469,97,Perferendis Deluxe,Starters,249.88
+470,51,Dolor Special,Combos,186.2
+471,115,Odit Thali,Desserts,662.94
+472,107,Sequi Special,Main Course,780.95
+473,92,Minima Deluxe,Sides,628.42
+474,57,Nesciunt Deluxe,Starters,199.38
+475,95,Voluptates Thali,Main Course,440.85
+476,27,Quo Platter,Sides,561.08
+477,40,Optio Combo,Breads,521.87
+478,6,Quidem Wrap,Main Course,239.98
+479,82,Vel Combo,Rice & Biryani,320.32
+480,7,Esse Thali,Rice & Biryani,779.96
+481,31,Expedita Wrap,Sides,293.39
+482,22,Vero Thali,Desserts,488.52
+483,51,Saepe Thali,Rice & Biryani,56.7
+484,6,Beatae Bowl,Combos,566.3
+485,20,Qui Combo,Main Course,236.54
+486,64,Occaecati Special,Beverages,748.14
+487,98,Quia Wrap,Starters,94.83
+488,83,Voluptatibus Deluxe,Main Course,144.37
+489,30,Magni Combo,Beverages,654.14
+490,57,Autem Wrap,Rice & Biryani,66.01
+491,49,Recusandae Combo,Breads,238.02
+492,6,Culpa Platter,Combos,469.27
+493,70,Assumenda Wrap,Combos,192.33
+494,24,Quo Bowl,Beverages,292.76
+495,60,Quae Combo,Breads,101.66
+496,20,Eligendi Platter,Desserts,664.56
+497,70,Rem Combo,Combos,50.54
+498,82,Quidem Bowl,Sides,600.24
+499,114,Distinctio Special,Beverages,632.01
+500,31,Doloremque Combo,Main Course,543.72
+501,69,Itaque Thali,Sides,192.4
+502,88,Quasi Platter,Breads,509.78
+503,42,Numquam Platter,Beverages,132.85
+504,67,Cum Wrap,Main Course,82.83
+505,17,Vero Deluxe,Starters,201.56
+506,63,Enim Deluxe,Main Course,73.86
+507,83,Reprehenderit Thali,Sides,543.44
+508,68,Porro Bowl,Desserts,86.81
+509,29,Consectetur Bowl,Main Course,59.81
+510,118,Quaerat Deluxe,Combos,746.3
+511,107,Occaecati Special,Combos,650.76
+512,8,Aspernatur Combo,Sides,666.52
+513,102,Odit Wrap,Starters,667.73
+514,35,Delectus Bowl,Starters,600.73
+515,107,Quam Combo,Main Course,758.45
+516,67,Nesciunt Special,Main Course,593.88
+517,69,Odit Platter,Rice & Biryani,194.84
+518,85,Recusandae Deluxe,Breads,468.82
+519,72,Aspernatur Platter,Main Course,624.71
+520,74,Ratione Combo,Combos,576.91
+521,55,Officiis Special,Breads,644.35
+522,71,Veniam Platter,Beverages,543.15
+523,69,Inventore Bowl,Combos,750.14
+524,116,Adipisci Combo,Beverages,683.64
+525,53,Nam Thali,Sides,669.62
+526,42,Facere Bowl,Rice & Biryani,472.36
+527,28,A Platter,Desserts,320.01
+528,58,Esse Platter,Sides,50.15
+529,5,Repellendus Combo,Starters,438.21
+530,114,Aut Combo,Starters,275.25
+531,29,Aperiam Deluxe,Beverages,66.28
+532,106,Nisi Wrap,Desserts,739.33
+533,66,Laborum Bowl,Breads,120.72
+534,59,Voluptates Combo,Breads,153.81
+535,47,At Bowl,Rice & Biryani,224.75
+536,104,Quis Combo,Main Course,477.87
+537,73,Assumenda Deluxe,Main Course,592.69
+538,102,Atque Platter,Breads,416.21
+539,116,Optio Wrap,Main Course,496.42
+540,39,Aliquid Special,Sides,108.86
+541,8,Illo Thali,Beverages,310.95
+542,105,Nemo Platter,Sides,747.68
+543,16,Ducimus Thali,Rice & Biryani,610.76
+544,109,Deleniti Bowl,Starters,525.42
+545,81,Temporibus Platter,Starters,278.59
+546,6,Tenetur Combo,Breads,295.12
+547,90,Nihil Deluxe,Breads,87.89
+548,94,Minima Platter,Combos,614.63
+549,74,Modi Bowl,Main Course,216.56
+550,38,Occaecati Thali,Sides,161.01
+551,44,Minus Special,Combos,478.58
+552,7,Minus Bowl,Sides,246.92
+553,52,Beatae Bowl,Sides,630.37
+554,17,Vero Thali,Breads,410.69
+555,26,Ut Platter,Sides,539.19
+556,26,Quis Bowl,Rice & Biryani,231.74
+557,35,Deleniti Thali,Sides,292.56
+558,119,Ullam Bowl,Main Course,134.4
+559,53,Laudantium Platter,Beverages,311.23
+560,42,Cumque Combo,Starters,627.26
+561,22,Dolorum Combo,Combos,517.39
+562,57,Quidem Special,Rice & Biryani,199.76
+563,48,Mollitia Deluxe,Main Course,134.28
+564,7,Quia Deluxe,Breads,701.56
+565,105,Debitis Combo,Starters,307.45
+566,103,Et Special,Desserts,387.55
+567,3,A Combo,Rice & Biryani,605.01
+568,28,Adipisci Deluxe,Desserts,461.6
+569,80,In Wrap,Breads,571.3
+570,86,Officiis Special,Sides,487.25
+571,85,Veniam Bowl,Starters,241.59
+572,8,Quisquam Combo,Rice & Biryani,641.89
+573,80,Nisi Combo,Starters,398.72
+574,2,Quibusdam Special,Sides,545.28
+575,85,Modi Thali,Beverages,698.21
+576,3,Eum Combo,Sides,223.38
+577,49,Expedita Bowl,Main Course,727.9
+578,63,Officia Thali,Main Course,189.81
+579,65,Laborum Platter,Starters,79.81
+580,119,Dolor Bowl,Desserts,300.18
+581,51,Harum Wrap,Breads,63.78
+582,88,Eaque Combo,Beverages,518.92
+583,31,Culpa Bowl,Desserts,658.92
+584,81,Aliquid Combo,Sides,717.8
+585,105,Ut Special,Desserts,219.19
+586,44,Nihil Platter,Breads,115.85
+587,49,Sint Bowl,Rice & Biryani,363.0
+588,74,Ad Deluxe,Sides,777.9
+589,117,Excepturi Bowl,Beverages,386.88
+590,17,Enim Deluxe,Breads,485.77
+591,88,Atque Thali,Rice & Biryani,696.94
+592,40,Consequuntur Wrap,Breads,372.55
+593,117,Saepe Thali,Breads,542.17
+594,73,Aliquid Deluxe,Beverages,100.86
+595,69,Occaecati Wrap,Main Course,188.1
+596,108,Sapiente Deluxe,Starters,624.08
+597,113,Veniam Platter,Sides,277.51
+598,96,Voluptatibus Thali,Desserts,163.97
+599,25,Architecto Special,Breads,188.56
+600,98,Exercitationem Bowl,Desserts,504.2
+601,79,Aperiam Deluxe,Rice & Biryani,223.18
+602,4,Natus Combo,Main Course,566.11
+603,62,Nulla Deluxe,Combos,584.01
+604,48,Eveniet Deluxe,Sides,418.58
+605,18,Quis Deluxe,Rice & Biryani,219.7
+606,53,Esse Thali,Starters,744.08
+607,53,Aspernatur Deluxe,Rice & Biryani,618.33
+608,9,Deserunt Deluxe,Combos,700.35
+609,63,Provident Wrap,Beverages,700.08
+610,114,Illum Deluxe,Sides,353.65
+611,6,Eveniet Bowl,Sides,590.15
+612,51,Repellat Bowl,Starters,440.49
+613,58,Ipsum Platter,Starters,708.33
+614,32,Repellat Bowl,Sides,787.87
+615,6,Sapiente Bowl,Sides,437.1
+616,81,Veniam Special,Rice & Biryani,268.38
+617,51,Iste Combo,Desserts,396.01
+618,55,Ex Combo,Starters,567.46
+619,116,Incidunt Deluxe,Combos,672.42
+620,58,Dicta Special,Main Course,184.83
+621,75,Ut Wrap,Breads,344.8
+622,42,Quasi Platter,Starters,184.16
+623,76,Est Wrap,Rice & Biryani,711.91
+624,12,Neque Combo,Beverages,568.79
+625,117,In Wrap,Breads,588.78
+626,16,Harum Special,Main Course,579.67
+627,82,Assumenda Combo,Main Course,442.86
+628,50,Quos Wrap,Breads,334.01
+629,49,Rerum Special,Breads,734.19
+630,73,Doloribus Thali,Breads,171.59
+631,19,Sunt Deluxe,Starters,364.69
+632,40,Veritatis Wrap,Combos,266.59
+633,24,Nobis Special,Breads,770.33
+634,1,Quos Bowl,Desserts,59.16
+635,64,Possimus Thali,Combos,457.63
+636,1,Architecto Bowl,Combos,228.41
+637,76,Laborum Wrap,Combos,390.3
+638,57,Temporibus Special,Starters,233.53
+639,71,Velit Combo,Rice & Biryani,86.69
+640,19,Modi Special,Beverages,77.54
+641,110,Qui Special,Desserts,298.33
+642,12,Ipsum Special,Main Course,362.72
+643,23,Voluptatem Deluxe,Desserts,508.32
+644,89,Nesciunt Wrap,Breads,774.72
+645,96,Nemo Bowl,Beverages,748.61
+646,12,Distinctio Thali,Desserts,292.12
+647,115,In Platter,Main Course,618.83
+648,108,Minus Bowl,Main Course,269.62
+649,18,Ea Special,Desserts,296.91
+650,53,Quidem Bowl,Rice & Biryani,571.87
+651,79,Pariatur Special,Main Course,478.53
+652,81,Excepturi Bowl,Main Course,412.75
+653,89,Et Bowl,Desserts,370.29
+654,109,In Combo,Desserts,444.04
+655,80,Voluptatum Combo,Breads,510.72
+656,64,Dicta Bowl,Combos,419.38
+657,24,Officiis Bowl,Rice & Biryani,581.44
+658,25,Aspernatur Special,Main Course,67.99
+659,81,Ratione Thali,Main Course,603.1
+660,27,Neque Thali,Sides,360.53
+661,43,Nesciunt Combo,Rice & Biryani,58.47
+662,26,Quos Wrap,Desserts,240.81
+663,9,Quia Combo,Desserts,430.02
+664,42,Deleniti Thali,Starters,135.38
+665,43,Molestias Combo,Sides,593.3
+666,79,Exercitationem Special,Breads,195.51
+667,107,Facere Combo,Combos,737.12
+668,103,Enim Special,Breads,411.12
+669,81,Iure Platter,Beverages,396.85
+670,105,Tenetur Platter,Starters,676.33
+671,39,Beatae Bowl,Beverages,466.38
+672,3,Odio Deluxe,Beverages,649.65
+673,114,Maxime Thali,Beverages,99.66
+674,20,Consectetur Combo,Starters,304.36
+675,49,Quidem Wrap,Breads,478.24
+676,50,Eaque Deluxe,Main Course,698.45
+677,97,Asperiores Combo,Beverages,582.38
+678,35,Fugiat Platter,Main Course,422.79
+679,31,Minus Combo,Combos,672.09
+680,39,Veniam Deluxe,Desserts,181.26
+681,48,Sed Thali,Starters,633.34
+682,117,Sed Special,Combos,429.5
+683,103,Animi Platter,Breads,192.66
+684,119,Aut Platter,Desserts,631.65
+685,19,Eaque Thali,Main Course,666.6
+686,67,Repudiandae Wrap,Breads,203.89
+687,5,Velit Platter,Sides,585.26
+688,67,Ratione Special,Starters,283.24
+689,6,Esse Wrap,Main Course,299.97
+690,114,Perferendis Special,Main Course,440.43
+691,85,Eos Wrap,Desserts,66.86
+692,98,Iusto Combo,Rice & Biryani,290.66
+693,25,Incidunt Combo,Desserts,449.21
+694,99,Accusantium Platter,Main Course,254.49
+695,21,Error Combo,Main Course,61.44
+696,80,Eaque Bowl,Main Course,204.93
+697,45,Cumque Bowl,Beverages,253.29
+698,91,Perferendis Thali,Desserts,480.56
+699,22,Exercitationem Special,Desserts,509.95
+700,44,Voluptatem Bowl,Combos,88.04
+701,4,Sed Platter,Starters,129.45
+702,7,Voluptatibus Special,Sides,343.94
+703,91,Enim Bowl,Combos,512.24
+704,40,Nam Combo,Rice & Biryani,584.67
+705,86,Excepturi Thali,Main Course,780.26
+706,97,Quod Thali,Combos,475.84
+707,12,Iste Thali,Combos,122.95
+708,40,Id Wrap,Combos,402.91
+709,29,Modi Deluxe,Desserts,734.65
+710,51,Omnis Deluxe,Beverages,641.58
+711,113,Quibusdam Combo,Combos,415.63
+712,9,Totam Platter,Main Course,313.58
+713,60,Magnam Thali,Breads,261.69
+714,45,Inventore Bowl,Breads,430.96
+715,52,Facilis Thali,Main Course,294.4
+716,84,Magni Special,Desserts,449.56
+717,52,Quam Bowl,Sides,228.93
+718,32,Praesentium Bowl,Breads,780.42
+719,50,Omnis Special,Beverages,206.18
+720,89,Consequuntur Bowl,Sides,638.24
+721,56,Optio Bowl,Beverages,458.4
+722,31,Ipsum Deluxe,Main Course,604.53
+723,92,Enim Bowl,Combos,135.74
+724,77,Maxime Platter,Beverages,466.32
+725,106,Ipsam Platter,Breads,281.03
+726,52,Neque Special,Main Course,564.13
+727,77,Aperiam Thali,Sides,295.56
+728,83,Recusandae Wrap,Starters,117.9
+729,105,Est Deluxe,Starters,617.81
+730,85,Dignissimos Deluxe,Combos,448.44
+731,50,Ad Bowl,Combos,196.75
+732,88,Facilis Combo,Desserts,477.71
+733,117,Quod Wrap,Desserts,738.88
+734,120,Reprehenderit Platter,Beverages,792.72
+735,75,Repellendus Special,Sides,685.73
+736,110,Nesciunt Combo,Starters,326.92
+737,71,Impedit Special,Starters,577.52
+738,106,Dolor Combo,Main Course,695.94
+739,111,Eius Special,Rice & Biryani,373.79
+740,76,Iure Platter,Beverages,583.83
+741,52,Eum Platter,Sides,458.84
+742,85,Modi Deluxe,Combos,154.3
+743,72,Reiciendis Platter,Beverages,679.97
+744,20,Exercitationem Combo,Breads,150.71
+745,10,Praesentium Wrap,Starters,158.0
+746,114,Quo Platter,Sides,781.23
+747,18,Ullam Special,Breads,531.68
+748,54,Vitae Thali,Combos,720.19
+749,90,Labore Bowl,Sides,517.44
+750,59,Facere Bowl,Sides,464.04
+751,58,Porro Platter,Beverages,219.31
+752,55,Temporibus Bowl,Starters,483.45
+753,109,Porro Wrap,Rice & Biryani,584.1
+754,35,Officia Platter,Beverages,75.1
+755,5,Dolores Bowl,Combos,578.66
+756,15,Libero Bowl,Combos,771.3
+757,11,Dolores Deluxe,Desserts,398.7
+758,11,Deserunt Bowl,Main Course,233.92
+759,81,Quisquam Wrap,Main Course,563.06
+760,70,Porro Thali,Desserts,509.78
+761,116,Ea Combo,Starters,401.65
+762,66,Quis Platter,Beverages,365.76
+763,103,Temporibus Combo,Desserts,175.63
+764,89,Assumenda Bowl,Desserts,595.23
+765,73,Qui Combo,Starters,521.98
+766,75,Aliquid Deluxe,Starters,542.24
+767,38,Autem Thali,Starters,265.11
+768,11,Velit Deluxe,Main Course,688.58
+769,36,Architecto Combo,Breads,511.85
+770,36,Ab Thali,Desserts,60.65
+771,15,Neque Bowl,Breads,732.6
+772,95,Deserunt Deluxe,Combos,327.33
+773,23,Suscipit Combo,Rice & Biryani,413.69
+774,103,Eveniet Bowl,Starters,307.14
+775,11,Atque Deluxe,Breads,678.21
+776,97,Voluptatum Platter,Sides,228.46
+777,57,Distinctio Wrap,Breads,208.14
+778,94,Accusamus Thali,Beverages,90.74
+779,34,Esse Thali,Main Course,89.39
+780,60,Quae Platter,Combos,276.03
+781,96,Odit Thali,Rice & Biryani,334.85
+782,91,Minima Platter,Combos,246.97
+783,68,Assumenda Thali,Sides,58.9
+784,119,Sit Thali,Combos,336.5
+785,41,Tempore Bowl,Starters,123.02
+786,69,Vel Wrap,Beverages,767.14
+787,56,Sint Bowl,Desserts,301.23
+788,35,Perspiciatis Thali,Main Course,241.51
+789,75,Unde Platter,Combos,629.86
+790,96,Placeat Deluxe,Rice & Biryani,439.96
+791,87,Ad Wrap,Breads,284.95
+792,2,Ab Wrap,Starters,673.77
+793,2,Quibusdam Platter,Main Course,443.95
+794,88,Quod Platter,Beverages,214.56
+795,37,Neque Combo,Rice & Biryani,75.53
+796,80,Accusantium Special,Starters,753.88
+797,85,Ad Thali,Rice & Biryani,762.87
+798,82,Quia Special,Main Course,114.79
+799,78,Harum Deluxe,Sides,542.3
+800,116,Quidem Wrap,Breads,722.0
+801,90,Illo Deluxe,Desserts,270.93
+802,85,Ad Special,Combos,742.02
+803,36,Provident Thali,Sides,569.17
+804,86,Voluptatem Thali,Beverages,243.0
+805,100,Veniam Special,Desserts,632.83
+806,49,Non Platter,Beverages,796.97
+807,34,Dolorum Thali,Desserts,183.45
+808,9,Corrupti Platter,Rice & Biryani,507.73
+809,23,Consequatur Wrap,Combos,131.32
+810,70,Qui Thali,Sides,213.79
+811,83,Distinctio Special,Combos,586.55
+812,14,Excepturi Special,Main Course,102.81
+813,94,Earum Combo,Combos,64.07
+814,64,Sit Deluxe,Starters,749.67
+815,86,Qui Platter,Desserts,163.71
+816,43,Explicabo Platter,Starters,436.54
+817,99,Libero Platter,Combos,377.04
+818,109,Fugiat Wrap,Main Course,455.1
+819,1,Nam Platter,Combos,140.9
+820,69,Beatae Combo,Beverages,561.38
+821,52,Minima Special,Main Course,324.02
+822,110,Necessitatibus Combo,Main Course,680.89
+823,98,Officia Thali,Desserts,535.84
+824,23,Recusandae Bowl,Starters,775.63
+825,85,Exercitationem Deluxe,Desserts,571.91
+826,115,Voluptatem Special,Beverages,414.88
+827,114,Et Wrap,Combos,601.49
+828,18,In Special,Rice & Biryani,69.02
+829,76,Vitae Deluxe,Combos,341.58
+830,102,Beatae Bowl,Desserts,424.76
+831,107,Ullam Thali,Combos,774.93
+832,3,Totam Special,Beverages,92.04
+833,101,Aliquid Wrap,Starters,354.13
+834,28,Consectetur Thali,Combos,755.07
+835,112,Necessitatibus Thali,Breads,605.79
+836,30,Modi Special,Starters,601.59
+837,63,Minus Wrap,Starters,403.41
+838,118,Quod Bowl,Starters,232.01
+839,84,Pariatur Deluxe,Starters,179.19
+840,7,Aspernatur Combo,Main Course,392.14
+841,22,Tempore Thali,Main Course,663.35
+842,14,Accusamus Special,Combos,496.23
+843,79,Voluptates Deluxe,Main Course,653.34
+844,55,Dolores Combo,Sides,293.18
+845,88,Blanditiis Bowl,Breads,291.19
+846,102,Praesentium Deluxe,Starters,494.81
+847,43,Nostrum Special,Main Course,255.42
+848,97,Tenetur Platter,Breads,572.22
+849,71,Iure Deluxe,Combos,232.73
+850,75,Recusandae Special,Breads,124.98
+851,109,Consequatur Wrap,Sides,633.25
+852,3,Quia Platter,Main Course,54.76
+853,23,Animi Special,Desserts,362.17
+854,104,Eum Thali,Combos,569.27
+855,27,Error Deluxe,Desserts,442.32
+856,53,Voluptate Deluxe,Breads,507.9
+857,5,Reiciendis Bowl,Breads,587.9
+858,79,Pariatur Special,Desserts,310.89
+859,1,Fugit Bowl,Rice & Biryani,193.93
+860,68,Aperiam Special,Beverages,697.05
+861,70,Autem Bowl,Rice & Biryani,398.16
+862,81,Vitae Wrap,Rice & Biryani,257.32
+863,25,Hic Special,Breads,563.93
+864,117,Quisquam Platter,Combos,182.24
+865,86,Recusandae Special,Starters,533.65
+866,37,Unde Deluxe,Sides,238.54
+867,79,Aliquid Thali,Combos,82.49
+868,95,Dolorum Special,Breads,168.53
+869,4,Ipsam Platter,Main Course,103.14
+870,31,Ad Wrap,Combos,494.53
+871,42,Eos Platter,Rice & Biryani,610.32
+872,115,Repudiandae Combo,Rice & Biryani,634.23
+873,42,Dicta Deluxe,Main Course,227.84
+874,53,Nam Thali,Rice & Biryani,331.65
+875,29,Autem Special,Combos,488.82
+876,7,In Platter,Breads,212.12
+877,79,Dolorem Platter,Breads,340.5
+878,18,Recusandae Platter,Rice & Biryani,524.02
+879,35,Excepturi Deluxe,Beverages,145.41
+880,89,Reiciendis Bowl,Starters,260.45
+881,15,Molestias Thali,Combos,393.93
+882,22,Veritatis Thali,Beverages,214.89
+883,38,Quis Bowl,Breads,642.16
+884,82,Iure Bowl,Breads,483.59
+885,71,Molestiae Thali,Rice & Biryani,114.86
+886,110,Deserunt Bowl,Combos,696.65
+887,28,Voluptas Bowl,Combos,677.74
+888,36,Beatae Special,Sides,602.13
+889,32,Provident Deluxe,Beverages,375.69
+890,29,Laborum Bowl,Breads,735.32
+891,115,Asperiores Special,Sides,785.14
+892,6,Consequuntur Platter,Starters,369.27
+893,51,Nostrum Platter,Main Course,389.33
+894,31,Eveniet Special,Starters,569.87
+895,53,Autem Deluxe,Breads,318.8
+896,31,Laboriosam Wrap,Main Course,61.95
+897,86,Sed Combo,Breads,577.48
+898,110,Sint Bowl,Starters,782.32
+899,60,Saepe Thali,Breads,705.65
+900,52,Nam Deluxe,Beverages,520.11
+901,91,Itaque Wrap,Starters,695.29
+902,10,Aliquam Platter,Beverages,448.19
+903,38,Tempora Platter,Desserts,573.54
+904,79,Fugit Bowl,Rice & Biryani,640.77
+905,11,Odio Bowl,Beverages,601.82
+906,8,Porro Bowl,Beverages,715.98
+907,15,Eum Platter,Beverages,399.01
+908,6,Magnam Combo,Beverages,181.45
+909,72,Quod Wrap,Main Course,470.57
+910,100,Minus Deluxe,Breads,785.94
+911,31,Non Bowl,Main Course,536.78
+912,95,Ea Thali,Rice & Biryani,614.88
+913,98,Vero Deluxe,Beverages,314.53
+914,35,Reprehenderit Bowl,Sides,257.86
+915,9,Ut Combo,Beverages,389.31
+916,65,Modi Bowl,Main Course,402.62
+917,69,Blanditiis Wrap,Desserts,388.98
+918,48,Sit Thali,Main Course,191.27
+919,114,Impedit Platter,Main Course,110.13
+920,115,Expedita Deluxe,Desserts,768.69
+921,10,Aut Special,Breads,256.96
+922,90,Blanditiis Deluxe,Combos,162.87
+923,27,Fugiat Bowl,Starters,269.88
+924,88,Dolor Bowl,Breads,405.43
+925,54,Modi Platter,Starters,268.64
+926,9,Tempora Special,Rice & Biryani,676.21
+927,67,Dolor Wrap,Beverages,358.77
+928,44,Molestias Wrap,Beverages,414.61
+929,86,Ipsum Wrap,Combos,393.51
+930,73,Magni Deluxe,Desserts,178.8
+931,34,Corrupti Deluxe,Combos,328.93
+932,37,Consectetur Thali,Starters,161.25
+933,37,Ab Platter,Breads,513.97
+934,21,Inventore Wrap,Desserts,186.71
+935,23,Numquam Thali,Breads,170.94
+936,15,Magni Special,Beverages,480.89
+937,57,Fugit Combo,Beverages,188.37
+938,72,Corporis Wrap,Starters,549.16
+939,45,Delectus Deluxe,Beverages,386.32
+940,21,Commodi Bowl,Desserts,141.12
+941,4,Ea Platter,Combos,626.39
+942,59,Non Combo,Breads,53.22
+943,95,Occaecati Bowl,Beverages,535.43
+944,38,Quos Platter,Desserts,777.2
+945,97,Quos Bowl,Breads,649.68
+946,94,Quam Platter,Beverages,566.86
+947,94,Nemo Platter,Starters,154.57
+948,71,Corporis Special,Desserts,68.6
+949,80,Alias Thali,Rice & Biryani,384.48
+950,12,Commodi Combo,Starters,506.11
+951,25,Libero Bowl,Rice & Biryani,635.96
+952,99,Quod Combo,Rice & Biryani,66.91
+953,69,Consectetur Thali,Combos,557.8
+954,12,Saepe Bowl,Sides,195.84
+955,41,Sapiente Bowl,Starters,731.34
+956,47,Itaque Platter,Breads,586.97
+957,55,Molestiae Combo,Sides,329.62
+958,37,Accusantium Combo,Beverages,281.06
+959,58,Illum Thali,Main Course,211.77
+960,114,Neque Platter,Sides,652.76
+961,37,Molestias Deluxe,Sides,596.45
+962,54,Blanditiis Deluxe,Main Course,157.73
+963,39,Ratione Platter,Beverages,99.59
+964,76,Exercitationem Thali,Sides,116.34
+965,53,Rem Wrap,Desserts,360.89
+966,72,Quasi Platter,Breads,199.44
+967,107,Dolores Platter,Desserts,465.4
+968,6,Vitae Thali,Desserts,675.94
+969,39,Modi Platter,Combos,218.39
+970,102,Dolores Special,Breads,247.01
+971,82,Deserunt Thali,Combos,143.13
+972,86,Fugiat Combo,Sides,184.53
+973,117,Incidunt Wrap,Rice & Biryani,71.33
+974,98,Fugiat Combo,Combos,795.75
+975,9,Possimus Bowl,Beverages,485.8
+976,73,Dignissimos Platter,Desserts,521.0
+977,61,At Wrap,Main Course,329.9
+978,94,Doloremque Bowl,Starters,683.96
+979,21,Nostrum Bowl,Starters,159.6
+980,60,Harum Wrap,Breads,318.04
+981,7,Nihil Combo,Beverages,364.64
+982,117,In Combo,Starters,267.39
+983,68,Perspiciatis Wrap,Main Course,435.4
+984,99,Autem Wrap,Breads,623.52
+985,77,Magni Thali,Breads,457.78
+986,112,Explicabo Combo,Desserts,253.59
+987,90,Expedita Wrap,Beverages,121.88
+988,75,Sunt Combo,Breads,59.67
+989,67,Possimus Combo,Beverages,634.11
+990,53,Saepe Combo,Breads,126.81
+991,20,Sint Bowl,Rice & Biryani,673.68
+992,102,Eius Bowl,Main Course,363.01
+993,118,Officia Special,Main Course,664.13
+994,119,Corrupti Special,Combos,311.16
+995,89,Deleniti Combo,Breads,662.78
+996,114,Incidunt Bowl,Beverages,179.16
+997,39,Ab Special,Main Course,216.77
+998,110,Nam Wrap,Breads,566.04
+999,40,Iusto Deluxe,Rice & Biryani,147.66
+1000,11,Sit Platter,Main Course,108.3
+1001,100,Modi Platter,Sides,81.89
+1002,14,Iure Special,Starters,401.81
+1003,117,Nulla Combo,Starters,99.69
+1004,86,Iusto Special,Main Course,636.78
+1005,118,Non Bowl,Rice & Biryani,490.7
+1006,26,Totam Deluxe,Beverages,71.94
+1007,19,Saepe Thali,Desserts,761.59
+1008,45,Deleniti Combo,Breads,691.35
+1009,100,In Wrap,Rice & Biryani,428.68
+1010,9,Iste Special,Starters,446.63
+1011,92,Sed Deluxe,Desserts,178.83
+1012,97,Voluptate Bowl,Starters,780.18
+1013,13,Eligendi Deluxe,Combos,324.85
+1014,76,Perferendis Deluxe,Combos,555.14
+1015,14,Ipsam Deluxe,Beverages,785.98
+1016,55,Dolorum Deluxe,Rice & Biryani,355.68
+1017,98,Nam Combo,Main Course,399.43
+1018,67,Ipsum Deluxe,Combos,621.71
+1019,91,Illum Combo,Starters,111.69
+1020,64,Voluptate Special,Sides,262.71
+1021,77,Tempora Wrap,Desserts,565.28
+1022,108,Porro Platter,Rice & Biryani,465.44
+1023,38,Repellat Thali,Sides,191.59
+1024,9,Exercitationem Thali,Combos,754.31
+1025,48,Itaque Deluxe,Starters,799.04
+1026,63,Minus Wrap,Main Course,347.28
+1027,67,Hic Wrap,Main Course,139.41
+1028,51,Mollitia Platter,Main Course,606.07
+1029,115,Maiores Deluxe,Main Course,322.78
+1030,26,Cum Combo,Rice & Biryani,496.22
+1031,52,Recusandae Special,Rice & Biryani,678.58
+1032,93,Eligendi Platter,Desserts,623.61
+1033,99,Rerum Bowl,Desserts,617.23
+1034,103,Quisquam Wrap,Sides,317.07
+1035,86,Ducimus Bowl,Sides,790.64
+1036,66,Vero Combo,Breads,626.0
+1037,14,Quo Special,Desserts,417.01
+1038,30,Alias Wrap,Breads,72.29
+1039,95,Officiis Special,Main Course,423.6
+1040,4,Voluptatum Deluxe,Sides,503.44
+1041,42,Eos Deluxe,Desserts,516.48
+1042,13,Nulla Thali,Main Course,545.81
+1043,67,Illum Thali,Combos,644.55
+1044,26,Voluptate Combo,Combos,417.69
+1045,34,Atque Bowl,Beverages,657.11
+1046,70,Nemo Bowl,Starters,764.44
+1047,5,Veniam Platter,Main Course,337.72
+1048,41,Praesentium Thali,Sides,381.92
+1049,5,Deserunt Special,Breads,467.5
+1050,111,Tempora Thali,Desserts,713.53
+1051,22,Incidunt Platter,Sides,150.87
+1052,92,Excepturi Platter,Combos,623.01
+1053,73,Explicabo Wrap,Combos,545.06
+1054,88,Unde Bowl,Combos,406.93
+1055,110,Dolor Deluxe,Starters,343.54
+1056,64,Nisi Bowl,Sides,512.7
+1057,46,Minus Thali,Desserts,290.36
+1058,4,Aut Bowl,Starters,146.15
+1059,47,Occaecati Combo,Starters,623.9
+1060,81,Sapiente Combo,Sides,123.01
+1061,45,Perferendis Combo,Sides,313.45
+1062,85,Reprehenderit Deluxe,Rice & Biryani,225.97
+1063,40,Natus Bowl,Main Course,732.79
+1064,9,Quibusdam Thali,Desserts,135.85
+1065,22,Quae Special,Beverages,78.03
+1066,85,Voluptate Thali,Sides,476.04
+1067,116,Nihil Platter,Desserts,65.3
+1068,61,Quisquam Bowl,Starters,789.32
+1069,49,Amet Bowl,Sides,291.82
+1070,13,Magni Thali,Combos,125.04
+1071,87,Voluptates Deluxe,Beverages,422.55
+1072,104,Quidem Thali,Beverages,174.97
+1073,39,Saepe Combo,Sides,201.32
+1074,82,Tempore Thali,Main Course,680.29
+1075,69,Blanditiis Deluxe,Desserts,248.87
+1076,39,Corrupti Bowl,Sides,653.45
+1077,80,Expedita Wrap,Main Course,588.28
+1078,75,Unde Special,Beverages,255.02
+1079,73,Vel Thali,Combos,370.33
+1080,45,Libero Thali,Main Course,538.65
+1081,39,Doloremque Bowl,Desserts,374.68
+1082,70,Tenetur Combo,Rice & Biryani,360.74
+1083,33,Similique Bowl,Combos,553.67
+1084,71,Aperiam Deluxe,Starters,520.88
+1085,67,Recusandae Thali,Breads,482.63
+1086,28,Tenetur Wrap,Combos,250.95
+1087,82,Veritatis Bowl,Sides,750.98
+1088,94,Tenetur Wrap,Starters,441.7
+1089,47,Natus Platter,Breads,230.28
+1090,96,Iure Wrap,Desserts,683.09
+1091,53,Non Combo,Main Course,525.45
+1092,109,Corrupti Platter,Desserts,667.78
+1093,83,Accusamus Deluxe,Desserts,565.14
+1094,31,Consequuntur Platter,Rice & Biryani,135.17
+1095,25,Facilis Special,Rice & Biryani,647.78
+1096,40,Est Platter,Combos,469.87
+1097,56,Quaerat Platter,Starters,201.49
+1098,35,Quas Deluxe,Starters,243.8
+1099,103,Quos Combo,Breads,533.22
+1100,6,Repellendus Wrap,Combos,636.68
+1101,8,Voluptas Thali,Main Course,285.43
+1102,39,Repellat Thali,Main Course,725.43
+1103,53,Est Combo,Main Course,347.67
+1104,108,Occaecati Wrap,Breads,227.03
+1105,74,Minima Wrap,Main Course,441.47
+1106,107,Mollitia Bowl,Desserts,422.34
+1107,12,Officiis Deluxe,Main Course,629.89
+1108,41,Veritatis Combo,Sides,654.38
+1109,96,Repudiandae Deluxe,Sides,213.51
+1110,14,Voluptas Deluxe,Rice & Biryani,777.44
+1111,57,Provident Platter,Desserts,697.17
+1112,8,Distinctio Platter,Beverages,574.71
+1113,15,Laborum Combo,Sides,406.14
+1114,32,Alias Combo,Breads,322.25
+1115,92,Perspiciatis Combo,Desserts,65.81
+1116,116,Corporis Bowl,Starters,681.1
+1117,85,Impedit Thali,Starters,568.01
+1118,101,Nesciunt Wrap,Rice & Biryani,239.74
+1119,50,Blanditiis Combo,Beverages,727.37
+1120,88,Cum Special,Rice & Biryani,693.24
+1121,50,Dicta Special,Sides,745.63
+1122,118,Laudantium Combo,Desserts,117.69
+1123,106,Ipsa Thali,Rice & Biryani,273.07
+1124,111,Laboriosam Deluxe,Combos,523.51
+1125,113,Odit Thali,Sides,641.99
+1126,36,Enim Thali,Main Course,667.4
+1127,63,Quasi Platter,Sides,744.87
+1128,43,Perspiciatis Wrap,Sides,707.57
+1129,105,Laudantium Special,Breads,573.86
+1130,65,Pariatur Special,Beverages,365.65
+1131,94,Consequatur Thali,Beverages,389.95
+1132,4,Nulla Thali,Starters,531.03
+1133,24,Voluptatem Wrap,Combos,643.26
+1134,18,Odio Special,Sides,200.06
+1135,40,Ipsum Combo,Main Course,133.12
+1136,32,Atque Bowl,Breads,685.22
+1137,88,In Platter,Beverages,388.62
+1138,112,Aperiam Wrap,Breads,245.51
+1139,88,Voluptatum Bowl,Beverages,649.65
+1140,26,Cum Special,Sides,325.7
+1141,51,Adipisci Platter,Rice & Biryani,65.55
+1142,3,Laboriosam Bowl,Rice & Biryani,730.13
+1143,60,Tenetur Deluxe,Desserts,575.95
+1144,22,Corrupti Special,Sides,513.5
+1145,77,Veritatis Combo,Breads,116.8
+1146,48,Doloremque Deluxe,Main Course,60.59
+1147,68,Exercitationem Platter,Combos,670.44
+1148,64,Quas Special,Rice & Biryani,585.17
+1149,25,Doloribus Thali,Desserts,265.97
+1150,64,Quod Platter,Breads,373.48
+1151,27,Dolore Bowl,Rice & Biryani,796.41
+1152,37,Iure Wrap,Rice & Biryani,363.75
+1153,53,Ratione Thali,Breads,71.58
+1154,34,Nobis Deluxe,Combos,730.5
+1155,48,Officiis Bowl,Combos,114.3
+1156,61,Eveniet Deluxe,Beverages,780.8
+1157,51,Necessitatibus Wrap,Rice & Biryani,585.0
+1158,91,Suscipit Platter,Desserts,104.79
+1159,72,Ea Special,Starters,299.65
+1160,31,Ea Platter,Beverages,797.55
+1161,86,Tempore Thali,Starters,54.02
+1162,65,Unde Bowl,Sides,276.88
+1163,51,Non Wrap,Beverages,149.18
+1164,115,Nam Bowl,Starters,485.37
+1165,34,Aliquam Deluxe,Combos,747.75
+1166,113,Sint Platter,Breads,117.24
+1167,91,Eius Bowl,Sides,156.35
+1168,15,Odio Combo,Starters,783.89
+1169,64,Rerum Thali,Desserts,610.87
+1170,119,Nobis Platter,Desserts,727.09
+1171,34,Molestias Bowl,Desserts,437.73
+1172,56,Ab Deluxe,Beverages,602.65
+1173,63,Voluptatibus Thali,Breads,466.76
+1174,119,Error Wrap,Combos,89.92
+1175,20,Enim Special,Rice & Biryani,187.36
+1176,61,Hic Combo,Breads,579.47
+1177,56,Voluptatibus Special,Combos,80.59
+1178,46,At Wrap,Combos,393.32
+1179,15,Repellat Thali,Breads,142.74
+1180,12,Corporis Deluxe,Desserts,185.49
+1181,22,Quidem Wrap,Desserts,472.44
+1182,85,Ea Bowl,Rice & Biryani,487.66
+1183,1,Maiores Bowl,Breads,362.31
+1184,10,Itaque Deluxe,Combos,557.68
+1185,114,Eius Combo,Starters,263.21
+1186,88,Officia Special,Sides,330.17
+1187,119,Cum Special,Beverages,165.33
+1188,11,Fuga Platter,Combos,390.54
+1189,35,Velit Bowl,Starters,297.07
+1190,6,Porro Wrap,Combos,293.69
+1191,94,Quia Wrap,Breads,208.53
+1192,7,Tempore Thali,Desserts,292.38
+1193,8,Ipsam Wrap,Main Course,460.37
+1194,78,Saepe Platter,Main Course,349.14
+1195,23,Molestias Deluxe,Sides,116.89
+1196,110,Similique Deluxe,Breads,341.38
+1197,52,Mollitia Combo,Breads,140.45
+1198,63,Repudiandae Thali,Sides,601.92
+1199,118,Cum Combo,Breads,319.28
+1200,13,Laudantium Thali,Beverages,434.49
+1201,63,Libero Platter,Sides,407.33
+1202,73,Officia Bowl,Sides,117.67
+1203,55,Sit Thali,Beverages,510.4
+1204,56,Doloribus Wrap,Sides,119.71
+1205,66,Veniam Combo,Combos,557.33
+1206,83,Voluptatibus Wrap,Breads,748.0
+1207,68,In Wrap,Main Course,268.03
+1208,56,Sint Special,Combos,275.29
+1209,17,Rerum Wrap,Desserts,681.15
+1210,67,Blanditiis Platter,Desserts,476.4
+1211,71,Veniam Special,Starters,435.06
+1212,66,Deleniti Platter,Sides,120.86
+1213,85,Ipsam Wrap,Desserts,316.59
+1214,75,Cumque Special,Starters,135.45
+1215,85,Excepturi Platter,Breads,639.63
+1216,108,Inventore Platter,Starters,112.47
+1217,113,Cum Wrap,Desserts,285.46
+1218,93,Ducimus Platter,Combos,517.86
+1219,34,Minima Combo,Breads,208.3
+1220,11,Voluptate Wrap,Desserts,703.71
+1221,14,Dicta Platter,Starters,54.39
+1222,15,Quaerat Special,Breads,541.85
+1223,59,Molestias Wrap,Sides,701.59
+1224,96,Nihil Bowl,Combos,277.1
+1225,105,Saepe Bowl,Beverages,568.0
+1226,89,Deserunt Wrap,Sides,653.48
+1227,12,Repellat Deluxe,Breads,60.41
+1228,15,Molestiae Thali,Starters,572.02
+1229,25,Nisi Thali,Starters,206.92
+1230,84,Ea Deluxe,Rice & Biryani,376.84
+1231,81,Placeat Thali,Rice & Biryani,114.57
+1232,99,Tempora Platter,Breads,405.49
+1233,3,Quidem Special,Breads,726.81
+1234,95,Voluptate Wrap,Combos,772.9
+1235,61,Tenetur Special,Combos,488.92
+1236,26,Doloribus Combo,Sides,88.19
+1237,2,Quos Special,Sides,784.62
+1238,109,Doloremque Platter,Desserts,77.76
+1239,52,Porro Platter,Combos,223.93
+1240,8,Illo Bowl,Starters,366.5
+1241,41,Deserunt Bowl,Main Course,250.89
+1242,83,Ea Platter,Combos,137.71
+1243,80,Ipsam Wrap,Beverages,386.24
+1244,56,Odio Special,Breads,266.01
+1245,25,Sit Platter,Beverages,378.58
+1246,65,Asperiores Deluxe,Beverages,741.3
+1247,110,Magnam Thali,Combos,148.37
+1248,38,Accusamus Wrap,Sides,769.85
+1249,107,Placeat Wrap,Beverages,646.98
+1250,103,Deleniti Thali,Breads,516.38
+1251,37,Earum Wrap,Main Course,550.29
+1252,17,Molestiae Deluxe,Rice & Biryani,167.24
+1253,63,Ratione Special,Sides,757.29
+1254,64,Quae Combo,Rice & Biryani,207.07
+1255,7,Ullam Special,Beverages,710.68
+1256,46,Possimus Wrap,Breads,181.04
+1257,111,Nemo Bowl,Starters,655.11
+1258,44,Vitae Platter,Main Course,513.17
+1259,16,Porro Bowl,Rice & Biryani,414.77
+1260,44,Nesciunt Thali,Beverages,627.03
+1261,99,Voluptatum Bowl,Desserts,722.24
+1262,110,Numquam Wrap,Main Course,579.8
+1263,119,Porro Platter,Combos,771.99
+1264,97,Doloremque Special,Main Course,636.24
+1265,79,Blanditiis Thali,Main Course,667.71
+1266,6,Recusandae Bowl,Main Course,175.28
+1267,16,Aliquam Thali,Rice & Biryani,733.24
+1268,21,Est Wrap,Desserts,581.12
+1269,98,Illum Bowl,Combos,599.41
+1270,13,Aliquid Deluxe,Beverages,300.96
+1271,18,Harum Special,Rice & Biryani,379.33
+1272,54,Et Thali,Starters,233.99
+1273,104,Quidem Platter,Beverages,265.07
+1274,22,Illo Special,Desserts,329.33
+1275,97,Dolores Platter,Beverages,522.08
+1276,32,Officia Deluxe,Sides,640.41
+1277,18,Recusandae Thali,Sides,360.06
+1278,53,Possimus Platter,Beverages,757.81
+1279,57,Quo Deluxe,Starters,588.22
+1280,67,Quaerat Special,Main Course,303.73
+1281,52,Culpa Thali,Breads,375.55
+1282,51,Rem Thali,Starters,545.13
+1283,83,Cum Deluxe,Starters,783.3
+1284,92,Fugiat Thali,Desserts,364.48
+1285,114,Quisquam Wrap,Desserts,591.16
+1286,41,Maiores Combo,Starters,670.25
+1287,116,Quis Bowl,Breads,575.22
+1288,58,Animi Wrap,Rice & Biryani,715.68
+1289,80,Nulla Thali,Combos,573.1
+1290,114,Quisquam Thali,Sides,631.55
+1291,113,Esse Combo,Main Course,77.73
+1292,43,Nisi Platter,Breads,440.35
+1293,70,Corporis Combo,Rice & Biryani,119.61
+1294,71,Ullam Combo,Beverages,617.78
+1295,21,Expedita Special,Starters,717.74
+1296,70,In Bowl,Desserts,231.0
+1297,100,Aliquid Combo,Sides,790.22
+1298,15,Odio Wrap,Starters,681.19
+1299,34,Fuga Wrap,Beverages,142.86
+1300,97,Laudantium Wrap,Main Course,386.55
+1301,74,Commodi Wrap,Starters,389.86
+1302,31,Nulla Thali,Rice & Biryani,312.75
+1303,37,Cumque Wrap,Breads,585.76
+1304,67,Ex Wrap,Rice & Biryani,128.92
+1305,67,Eos Bowl,Rice & Biryani,667.13
+1306,47,Repudiandae Platter,Main Course,159.91
+1307,55,Voluptas Thali,Sides,111.46
+1308,8,Laudantium Platter,Breads,407.19
+1309,58,Voluptatum Special,Beverages,557.62
+1310,52,Similique Bowl,Sides,704.01
+1311,75,Suscipit Platter,Sides,797.38
+1312,89,Nobis Platter,Sides,667.86
+1313,19,Doloremque Bowl,Breads,413.57
+1314,59,Sint Deluxe,Main Course,570.85
+1315,59,Deserunt Platter,Starters,609.87
+1316,72,Enim Combo,Main Course,501.2
+1317,53,Enim Special,Main Course,327.19
+1318,38,Assumenda Special,Breads,138.31
+1319,40,Reiciendis Combo,Desserts,270.49
+1320,4,Laudantium Thali,Breads,156.6
+1321,76,Quibusdam Platter,Starters,752.62
+1322,40,Hic Combo,Rice & Biryani,187.31
+1323,95,Saepe Platter,Starters,141.75
+1324,45,Quidem Special,Starters,363.18
+1325,74,Dolores Combo,Combos,725.22
+1326,101,Iste Platter,Combos,675.84
+1327,107,Voluptatibus Bowl,Breads,621.46
+1328,65,Illum Wrap,Combos,621.26
+1329,86,Illum Platter,Breads,699.76
+1330,42,Rem Special,Sides,340.43
+1331,116,Fugiat Platter,Beverages,455.75
+1332,86,Quam Platter,Desserts,534.44
+1333,111,Veritatis Deluxe,Starters,479.0
+1334,102,Consequatur Thali,Desserts,470.78
+1335,16,Deleniti Wrap,Main Course,194.32
+1336,80,Neque Bowl,Starters,767.97
+1337,67,Assumenda Deluxe,Combos,426.98
+1338,3,Harum Special,Breads,771.78
+1339,36,Ullam Thali,Rice & Biryani,233.97
+1340,91,Debitis Thali,Combos,113.49
+1341,69,Voluptates Bowl,Beverages,351.35
+1342,6,Delectus Platter,Starters,304.97
+1343,24,Expedita Platter,Starters,694.74
+1344,41,Dignissimos Platter,Desserts,118.27
+1345,13,Iste Bowl,Breads,264.01
+1346,24,Expedita Combo,Main Course,165.67
+1347,53,Veritatis Wrap,Breads,94.19
+1348,42,Mollitia Deluxe,Starters,584.98
+1349,39,Porro Platter,Main Course,290.03
+1350,53,Dicta Combo,Desserts,331.63
+1351,106,Repellat Special,Starters,201.92
+1352,97,Suscipit Bowl,Rice & Biryani,419.73
+1353,97,Fugiat Bowl,Sides,762.02
+1354,35,Sunt Special,Beverages,398.62
+1355,53,Nesciunt Special,Combos,71.68
+1356,82,Minus Deluxe,Starters,251.87
+1357,76,Odio Wrap,Main Course,234.74
+1358,72,Autem Wrap,Breads,278.46
+1359,53,Tempora Platter,Main Course,684.71
+1360,65,Consectetur Deluxe,Breads,329.98
+1361,22,Necessitatibus Thali,Rice & Biryani,453.15
+1362,55,Quam Bowl,Combos,81.34
+1363,105,Hic Platter,Desserts,539.79
+1364,22,Voluptate Special,Starters,750.13
+1365,62,Maxime Combo,Desserts,679.62
+1366,49,Odit Combo,Rice & Biryani,488.87
+1367,66,Placeat Combo,Starters,171.06
+1368,69,Itaque Bowl,Main Course,275.48
+1369,51,Repellendus Wrap,Main Course,672.87
+1370,93,A Bowl,Desserts,708.71
+1371,27,Consectetur Bowl,Beverages,712.95
+1372,44,Officia Wrap,Desserts,784.73
+1373,91,Tempora Platter,Desserts,234.45
+1374,42,Vel Combo,Rice & Biryani,394.85
+1375,77,Voluptatem Combo,Starters,735.51
+1376,18,Magnam Wrap,Starters,506.59
+1377,1,At Special,Breads,359.87
+1378,115,Quibusdam Wrap,Combos,621.85
+1379,69,Nam Special,Main Course,453.99
+1380,115,Esse Thali,Combos,554.18
+1381,46,Nobis Thali,Sides,670.6
+1382,46,Error Platter,Breads,679.36
+1383,104,Possimus Wrap,Starters,143.57
+1384,48,Fugiat Deluxe,Combos,57.02
+1385,96,Iste Special,Desserts,560.42
+1386,91,Id Combo,Rice & Biryani,117.47
+1387,79,Labore Wrap,Desserts,656.31
+1388,29,Quo Deluxe,Combos,775.47
+1389,5,Repellat Combo,Combos,728.38
+1390,91,Delectus Bowl,Rice & Biryani,55.35
+1391,106,Recusandae Wrap,Sides,133.21
+1392,36,Placeat Bowl,Combos,177.86
+1393,25,Laboriosam Wrap,Breads,99.02
+1394,17,Vero Wrap,Main Course,145.57
+1395,120,Architecto Bowl,Rice & Biryani,710.75
+1396,94,Aperiam Thali,Desserts,193.89
+1397,87,Consequuntur Special,Desserts,560.51
+1398,114,Sunt Platter,Starters,753.42
+1399,83,Officia Wrap,Starters,690.39
+1400,42,Ad Platter,Sides,255.53
+1401,88,Cupiditate Bowl,Combos,421.68
+1402,67,Dolore Thali,Starters,712.85
+1403,29,Nulla Special,Desserts,738.79
+1404,69,Odit Platter,Beverages,53.87
+1405,25,A Combo,Main Course,710.07
+1406,104,Nobis Special,Rice & Biryani,783.57
+1407,55,Eligendi Special,Rice & Biryani,197.66
+1408,43,Voluptas Combo,Main Course,519.5
+1409,13,Delectus Special,Combos,373.96
+1410,4,Totam Bowl,Beverages,680.38
+1411,32,Incidunt Special,Combos,228.77
+1412,44,Dolore Thali,Starters,666.23
+1413,67,Harum Thali,Rice & Biryani,757.66
+1414,100,Consectetur Bowl,Combos,623.07
+1415,81,Ullam Platter,Main Course,114.15
+1416,8,Magni Special,Sides,284.96
+1417,109,Explicabo Wrap,Main Course,636.98
+1418,8,Blanditiis Thali,Combos,91.09
+1419,79,Minima Wrap,Sides,99.34
+1420,87,Vel Special,Starters,271.19
+1421,49,Totam Platter,Main Course,512.98
+1422,53,Doloremque Deluxe,Starters,390.06
+1423,60,Asperiores Thali,Sides,709.95
+1424,80,Nam Special,Beverages,538.19
+1425,87,Sunt Thali,Starters,390.56
+1426,43,Inventore Bowl,Rice & Biryani,131.0
+1427,2,Voluptates Bowl,Main Course,494.66
+1428,108,Eveniet Deluxe,Breads,528.02
+1429,33,Nobis Combo,Sides,411.05
+1430,80,Ullam Platter,Breads,232.36
+1431,103,Consectetur Special,Starters,145.76
+1432,75,Voluptatibus Platter,Beverages,283.39
+1433,114,Consequatur Bowl,Breads,160.56
+1434,40,A Bowl,Beverages,268.3
+1435,2,Error Bowl,Breads,92.99
+1436,65,Perferendis Thali,Starters,366.55
+1437,26,Autem Deluxe,Rice & Biryani,638.95
+1438,44,Delectus Deluxe,Combos,571.09
+1439,60,Rerum Bowl,Beverages,689.01
+1440,73,Et Combo,Desserts,364.02
+1441,21,Quas Special,Combos,707.08
+1442,117,Vero Special,Combos,214.55
+1443,1,Numquam Wrap,Rice & Biryani,569.92
+1444,60,Accusamus Bowl,Rice & Biryani,229.26
+1445,95,Accusamus Thali,Beverages,655.45
+1446,49,Voluptatem Deluxe,Sides,188.18
+1447,1,Laboriosam Combo,Starters,105.3
+1448,4,Cumque Bowl,Main Course,156.8
+1449,57,Nisi Deluxe,Beverages,82.93
+1450,4,Voluptate Deluxe,Rice & Biryani,263.08
+1451,29,Delectus Combo,Breads,304.86
+1452,71,Perferendis Deluxe,Breads,196.99
+1453,23,Aut Thali,Desserts,732.99
+1454,3,Eum Thali,Breads,334.19
+1455,101,Molestiae Special,Beverages,752.09
+1456,40,Commodi Platter,Rice & Biryani,327.23
+1457,48,Corporis Wrap,Breads,755.87
+1458,103,Corporis Bowl,Sides,708.79
+1459,9,Ipsam Special,Breads,712.04
+1460,17,Maxime Thali,Rice & Biryani,193.76
+1461,49,In Wrap,Beverages,288.46
+1462,55,Deserunt Wrap,Rice & Biryani,740.76
+1463,98,Modi Bowl,Rice & Biryani,690.83
+1464,38,Deleniti Thali,Breads,295.76
+1465,7,Temporibus Wrap,Desserts,704.64
+1466,109,Veritatis Bowl,Combos,206.93
+1467,11,Dicta Thali,Combos,643.25
+1468,79,Atque Special,Breads,431.46
+1469,97,Quia Wrap,Beverages,423.94
+1470,60,Recusandae Deluxe,Beverages,584.37
+1471,68,Accusamus Wrap,Combos,586.74
+1472,64,Similique Platter,Desserts,485.89
+1473,82,Totam Thali,Starters,205.4
+1474,115,Doloremque Deluxe,Combos,697.38
+1475,51,Nulla Deluxe,Desserts,368.77
+1476,49,Laudantium Bowl,Breads,751.62
+1477,48,Error Combo,Main Course,150.75
+1478,11,Sunt Combo,Combos,439.12
+1479,30,Distinctio Bowl,Starters,398.94
+1480,80,Neque Combo,Sides,388.36
+1481,56,Sint Platter,Beverages,653.38
+1482,41,Vitae Combo,Sides,68.54
+1483,57,Numquam Deluxe,Desserts,534.02
+1484,46,Esse Special,Desserts,681.95
+1485,66,Commodi Bowl,Main Course,639.4
+1486,119,Consequuntur Deluxe,Main Course,138.94
+1487,47,Deserunt Special,Rice & Biryani,300.32
+1488,87,Cupiditate Combo,Desserts,277.04
+1489,105,Repudiandae Thali,Desserts,192.98
+1490,78,Molestiae Deluxe,Desserts,56.4
+1491,39,Laudantium Combo,Beverages,637.35
+1492,52,Nobis Platter,Starters,404.0
+1493,66,Ipsam Thali,Breads,699.1
+1494,30,Deserunt Deluxe,Rice & Biryani,405.83
+1495,67,Expedita Bowl,Combos,591.88
+1496,60,Harum Combo,Main Course,284.81
+1497,25,Tenetur Platter,Sides,207.19
+1498,58,Blanditiis Thali,Starters,331.03
+1499,74,Expedita Thali,Breads,279.18
+1500,95,Quod Special,Combos,657.8
+1501,107,Sapiente Combo,Beverages,219.12
+1502,55,Sapiente Wrap,Sides,622.13
+1503,89,Sequi Bowl,Desserts,294.56
+1504,3,Id Bowl,Starters,741.61
+1505,20,Voluptas Combo,Sides,785.13
+1506,27,Alias Platter,Main Course,450.87
+1507,25,Unde Platter,Main Course,296.63
+1508,58,Incidunt Wrap,Desserts,119.93
+1509,14,Enim Wrap,Breads,74.04
+1510,89,Quas Bowl,Combos,70.13
+1511,26,Sequi Special,Sides,262.86
+1512,30,Quaerat Combo,Main Course,391.0
+1513,48,Eaque Bowl,Starters,178.87
+1514,111,Mollitia Platter,Sides,167.78
+1515,15,Impedit Deluxe,Sides,408.69
+1516,9,Tenetur Platter,Rice & Biryani,147.45
+1517,27,Asperiores Combo,Sides,663.42
+1518,86,Excepturi Platter,Breads,502.78
+1519,40,Possimus Bowl,Rice & Biryani,426.86
+1520,88,Molestiae Platter,Desserts,201.28
+1521,19,Culpa Platter,Main Course,668.44
+1522,78,Excepturi Thali,Rice & Biryani,444.39
+1523,117,Praesentium Bowl,Combos,395.15
+1524,74,Tempore Special,Main Course,265.93
+1525,113,Saepe Platter,Beverages,575.24
+1526,92,Aut Thali,Desserts,343.32
+1527,106,Quia Thali,Breads,361.29
+1528,23,Accusantium Bowl,Sides,393.37
+1529,117,Magni Wrap,Breads,573.89
+1530,13,Ipsum Platter,Starters,229.77
+1531,112,Delectus Deluxe,Desserts,711.92
+1532,69,Molestias Combo,Main Course,573.53
+1533,93,Reiciendis Deluxe,Combos,358.46
+1534,98,Nihil Bowl,Main Course,796.49
+1535,10,Maiores Thali,Main Course,428.3
+1536,100,Quisquam Combo,Sides,388.2
+1537,33,Vero Deluxe,Starters,396.63
+1538,10,Doloribus Wrap,Combos,335.87
+1539,96,Optio Platter,Rice & Biryani,347.51
+1540,2,Aut Combo,Main Course,581.82
+1541,18,Ad Combo,Combos,413.57
+1542,9,Repudiandae Special,Rice & Biryani,585.19
+1543,57,Atque Deluxe,Combos,665.32
+1544,108,Accusantium Deluxe,Breads,678.87
+1545,78,Fuga Special,Breads,270.61
+1546,69,Esse Wrap,Sides,176.34
+1547,86,Animi Thali,Starters,558.04
+1548,20,Assumenda Platter,Beverages,183.46
+1549,92,Nam Special,Rice & Biryani,381.54
+1550,7,Quae Thali,Main Course,342.96
+1551,40,Illo Platter,Starters,498.65
+1552,7,Sunt Thali,Sides,625.34
+1553,119,Provident Deluxe,Beverages,731.57
+1554,26,Nesciunt Special,Starters,366.26
+1555,2,Nisi Combo,Rice & Biryani,559.97
+1556,9,Voluptates Deluxe,Main Course,647.69
+1557,107,Natus Wrap,Breads,593.01
+1558,6,Blanditiis Platter,Main Course,661.72
+1559,42,Tempore Bowl,Rice & Biryani,518.51
+1560,120,Quidem Bowl,Sides,754.19
+1561,16,Quidem Deluxe,Rice & Biryani,129.41
+1562,42,Sint Deluxe,Starters,351.6
+1563,41,Dolor Special,Sides,209.58
+1564,29,Hic Special,Desserts,537.46
+1565,48,Blanditiis Special,Main Course,714.1
+1566,53,Ipsa Combo,Combos,787.33
+1567,14,Beatae Wrap,Breads,238.96
+1568,13,Quaerat Bowl,Beverages,786.06
+1569,90,Enim Platter,Breads,299.03
+1570,82,Dolor Thali,Beverages,783.52
+1571,86,Quidem Platter,Main Course,301.33
+1572,78,Itaque Bowl,Combos,336.78
+1573,82,Mollitia Wrap,Rice & Biryani,427.57
+1574,91,Repudiandae Special,Rice & Biryani,65.91
+1575,98,Tempora Special,Desserts,227.3
+1576,55,Totam Thali,Rice & Biryani,514.82
+1577,8,Vero Deluxe,Beverages,424.04
+1578,26,Temporibus Deluxe,Sides,203.29
+1579,5,At Deluxe,Combos,604.44
+1580,43,Ipsa Deluxe,Desserts,288.15
+1581,101,Voluptatem Thali,Starters,440.65
+1582,54,Nostrum Wrap,Desserts,612.91
+1583,30,Excepturi Thali,Beverages,307.05
+1584,27,Aspernatur Bowl,Starters,729.97
+1585,86,Exercitationem Deluxe,Rice & Biryani,506.05
+1586,49,Commodi Bowl,Beverages,187.66
+1587,81,Nostrum Special,Main Course,702.4
+1588,9,Cum Deluxe,Starters,525.78
+1589,19,Odit Deluxe,Breads,118.82
+1590,76,Similique Bowl,Rice & Biryani,227.23
+1591,11,Sequi Platter,Combos,283.6
+1592,93,Aspernatur Deluxe,Rice & Biryani,368.01
+1593,78,Ipsa Deluxe,Desserts,264.01
+1594,58,Vel Wrap,Rice & Biryani,253.9
+1595,101,Unde Platter,Main Course,763.26
+1596,47,Doloribus Platter,Sides,175.82
+1597,57,Cumque Platter,Sides,620.24
+1598,105,Accusantium Thali,Combos,64.86
+1599,49,Voluptatum Platter,Main Course,619.14
+1600,118,Deserunt Combo,Breads,464.64
+1601,23,Voluptates Combo,Sides,397.74
+1602,59,Accusamus Combo,Sides,471.61
+1603,62,Dolorem Special,Beverages,152.49
+1604,61,Praesentium Deluxe,Breads,737.1
+1605,1,Laborum Special,Beverages,418.59
+1606,119,Quasi Platter,Sides,777.87
+1607,48,Quas Platter,Combos,280.86
+1608,76,Facilis Special,Sides,713.75
+1609,118,Doloremque Special,Sides,749.1
+1610,21,Minima Deluxe,Sides,767.82
+1611,99,Debitis Thali,Beverages,432.21
+1612,63,Fugiat Wrap,Beverages,572.34
+1613,84,Cumque Platter,Sides,601.75
+1614,32,Aliquam Platter,Starters,741.1
+1615,47,Iusto Wrap,Starters,573.1
+1616,83,Nobis Deluxe,Desserts,504.08
+1617,88,Fugit Deluxe,Desserts,235.56
+1618,75,Qui Wrap,Breads,59.25
+1619,99,At Special,Sides,348.25
+1620,76,Fuga Special,Rice & Biryani,707.0
+1621,22,Repellat Thali,Sides,239.65
+1622,39,Sunt Bowl,Sides,489.56
+1623,94,Autem Platter,Main Course,131.96
+1624,74,Praesentium Thali,Beverages,660.67
+1625,35,Odit Wrap,Rice & Biryani,747.51
+1626,51,Quaerat Wrap,Desserts,54.82
+1627,22,Magni Thali,Combos,51.18
+1628,9,Aspernatur Thali,Sides,443.72
+1629,84,Praesentium Combo,Sides,177.98
+1630,48,Reiciendis Deluxe,Breads,198.52
+1631,24,Doloremque Bowl,Main Course,388.0
+1632,105,Maxime Deluxe,Breads,200.71
+1633,96,Dolore Deluxe,Rice & Biryani,244.51
+1634,116,Facere Thali,Sides,380.55
+1635,117,Corporis Bowl,Main Course,701.27
+1636,22,Rem Special,Desserts,114.28
+1637,16,Veniam Combo,Main Course,306.61
+1638,75,Cum Deluxe,Combos,413.9
+1639,98,Eum Special,Starters,95.79
+1640,97,Quaerat Special,Starters,122.63
+1641,67,A Thali,Starters,331.75
+1642,67,Aperiam Thali,Desserts,749.1
+1643,61,Accusantium Thali,Beverages,503.28
+1644,44,Exercitationem Combo,Beverages,799.58
+1645,105,Aperiam Deluxe,Beverages,548.81
+1646,49,Optio Bowl,Starters,781.48
+1647,112,Maiores Combo,Main Course,52.31
+1648,112,Molestiae Wrap,Sides,593.92
+1649,114,Distinctio Deluxe,Starters,501.43
+1650,112,Dolorum Bowl,Desserts,763.3
+1651,97,Amet Thali,Rice & Biryani,326.32
+1652,80,Quod Wrap,Combos,436.19
+1653,85,Ullam Deluxe,Starters,789.64
+1654,105,Nihil Combo,Starters,525.33
+1655,112,Et Special,Beverages,558.45
+1656,30,Iste Bowl,Combos,350.12
+1657,79,Expedita Thali,Main Course,311.25
+1658,120,Nesciunt Platter,Main Course,600.71
+1659,38,Ipsum Bowl,Rice & Biryani,583.96
+1660,112,Fugit Bowl,Starters,145.9
+1661,102,Autem Special,Desserts,674.27
+1662,71,Rem Thali,Combos,176.04
+1663,58,Minima Special,Combos,546.98
+1664,31,Cumque Deluxe,Rice & Biryani,177.82
+1665,85,Provident Wrap,Main Course,129.1
+1666,92,Veniam Special,Breads,746.75
+1667,42,Asperiores Platter,Desserts,215.28
+1668,33,Dolorum Wrap,Combos,763.63
+1669,86,Et Special,Breads,742.05
+1670,82,Quas Wrap,Combos,117.83
+1671,89,Aperiam Combo,Rice & Biryani,748.83
+1672,99,Natus Bowl,Main Course,532.99
+1673,49,Atque Wrap,Sides,540.44
+1674,101,Omnis Bowl,Sides,656.34
+1675,29,Id Combo,Main Course,268.23
+1676,15,Ipsa Special,Beverages,605.44
+1677,120,Itaque Deluxe,Main Course,479.63
+1678,17,Commodi Thali,Beverages,765.55
+1679,74,Quod Wrap,Starters,283.1
+1680,76,Odit Bowl,Rice & Biryani,685.34
+1681,55,Accusamus Combo,Beverages,648.14
+1682,120,Maxime Thali,Breads,439.81
+1683,78,Eligendi Bowl,Rice & Biryani,129.94
+1684,2,Illum Bowl,Combos,286.94
+1685,105,Recusandae Combo,Rice & Biryani,424.87
+1686,59,Incidunt Deluxe,Desserts,159.4
+1687,86,Soluta Thali,Starters,499.16
+1688,40,Exercitationem Bowl,Main Course,255.09
+1689,109,Officiis Wrap,Combos,523.31
+1690,28,Maxime Platter,Desserts,578.11
+1691,49,Rerum Special,Beverages,164.53
+1692,92,Possimus Deluxe,Rice & Biryani,575.31
+1693,7,Eius Thali,Breads,692.58
+1694,94,Quisquam Platter,Desserts,788.29
+1695,85,Exercitationem Thali,Breads,793.3
+1696,71,Distinctio Platter,Beverages,366.83
+1697,61,Ab Combo,Sides,343.3
+1698,68,Nemo Wrap,Desserts,261.77
+1699,119,Alias Deluxe,Sides,122.99
+1700,42,Eveniet Thali,Starters,687.36
+1701,91,Quis Combo,Combos,540.98
+1702,74,Laborum Deluxe,Combos,571.97
+1703,38,Tempora Deluxe,Rice & Biryani,213.6
+1704,96,Voluptate Deluxe,Starters,321.67
+1705,110,Accusamus Bowl,Main Course,558.74
+1706,110,Iusto Deluxe,Sides,762.8
+1707,55,A Wrap,Breads,744.49
+1708,13,Unde Combo,Combos,184.72
+1709,7,Minus Special,Beverages,495.04
+1710,20,Inventore Wrap,Sides,233.75
+1711,16,Corporis Deluxe,Sides,416.47
+1712,89,Enim Bowl,Breads,539.6
+1713,49,Quia Thali,Main Course,633.3
+1714,111,Ex Thali,Sides,256.41
+1715,84,Nihil Platter,Beverages,58.7
+1716,15,Porro Special,Main Course,416.91
+1717,86,Assumenda Bowl,Rice & Biryani,67.27
+1718,74,Dicta Bowl,Combos,255.29
+1719,96,Hic Special,Breads,337.97
+1720,83,Consectetur Wrap,Sides,273.77
+1721,17,Aperiam Special,Beverages,97.62
+1722,117,Eveniet Thali,Breads,354.0
+1723,90,Quasi Special,Sides,467.05
+1724,69,Neque Thali,Combos,97.95
+1725,108,Voluptates Bowl,Main Course,615.13
+1726,27,Minima Wrap,Main Course,185.5
+1727,77,Officia Wrap,Breads,53.99
+1728,58,Blanditiis Thali,Beverages,142.28
+1729,17,Repellendus Bowl,Rice & Biryani,539.48
+1730,12,Consequatur Bowl,Desserts,688.59
+1731,5,Quae Special,Main Course,429.61
+1732,47,Deleniti Bowl,Breads,367.29
+1733,85,Tempore Special,Rice & Biryani,275.45
+1734,67,Mollitia Thali,Desserts,544.37
+1735,57,Autem Deluxe,Combos,571.33
+1736,67,Rerum Combo,Rice & Biryani,565.95
+1737,85,Reiciendis Thali,Starters,227.83
+1738,25,Assumenda Deluxe,Desserts,692.06
+1739,28,Nostrum Deluxe,Rice & Biryani,493.84
+1740,36,Ut Deluxe,Sides,105.77
+1741,33,Delectus Combo,Sides,537.33
+1742,21,Ex Platter,Combos,112.44
+1743,33,Illum Wrap,Sides,755.15
+1744,19,Facilis Bowl,Rice & Biryani,102.92
+1745,94,Ipsam Combo,Rice & Biryani,585.83
+1746,73,Mollitia Wrap,Breads,364.76
+1747,20,Voluptates Combo,Sides,334.21
+1748,78,Itaque Deluxe,Main Course,252.59
+1749,69,Ipsum Special,Sides,99.47
+1750,82,Odio Special,Beverages,731.93
+1751,100,Fugit Combo,Breads,701.64
+1752,29,Eveniet Combo,Starters,123.46
+1753,29,Autem Platter,Main Course,637.05
+1754,16,Eligendi Deluxe,Desserts,491.62
+1755,104,Deleniti Platter,Main Course,446.72
+1756,90,Reprehenderit Bowl,Desserts,463.66
+1757,78,Corrupti Special,Starters,178.06
+1758,97,Dolor Platter,Breads,308.88
+1759,95,Corrupti Wrap,Sides,407.65
+1760,17,Doloremque Combo,Starters,564.99
+1761,92,Odio Deluxe,Breads,157.0
+1762,73,Omnis Wrap,Desserts,89.65
+1763,93,Ipsam Wrap,Beverages,580.63
+1764,32,Nemo Wrap,Sides,580.09
+1765,24,Cumque Platter,Beverages,648.85
+1766,65,Quidem Combo,Desserts,764.46
+1767,67,Magnam Wrap,Rice & Biryani,278.89
+1768,110,Eos Special,Desserts,354.89
+1769,41,Odio Thali,Main Course,526.01
+1770,10,Inventore Wrap,Rice & Biryani,758.65
+1771,22,Officiis Bowl,Starters,113.44
+1772,37,Fuga Bowl,Combos,656.26
+1773,2,Cumque Platter,Breads,409.74
+1774,66,Consectetur Wrap,Main Course,354.1
+1775,79,Dolore Deluxe,Starters,585.62
+1776,90,Vitae Bowl,Beverages,233.17
+1777,95,Incidunt Wrap,Starters,505.53
+1778,22,Voluptatibus Wrap,Rice & Biryani,181.11
+1779,47,Voluptatem Thali,Breads,435.26
+1780,7,Sed Platter,Combos,334.32
+1781,48,Animi Special,Beverages,735.53
+1782,32,Esse Thali,Main Course,267.55
+1783,62,Itaque Combo,Desserts,209.8
+1784,95,Dignissimos Wrap,Sides,213.1
+1785,40,Consectetur Wrap,Starters,751.56
+1786,115,Expedita Bowl,Combos,93.12
+1787,1,Magnam Bowl,Combos,296.41
+1788,46,Nam Special,Starters,312.29
+1789,93,Quam Deluxe,Sides,315.9
+1790,13,Architecto Platter,Combos,198.16
+1791,68,Veritatis Bowl,Breads,358.04
+1792,117,In Platter,Starters,166.72
+1793,85,Facilis Combo,Rice & Biryani,403.02
+1794,48,Doloribus Combo,Beverages,371.26
+1795,24,Aliquam Bowl,Desserts,131.52
+1796,57,Necessitatibus Wrap,Combos,171.38
+1797,46,Odio Wrap,Sides,54.36
+1798,114,Quos Thali,Rice & Biryani,133.0
+1799,37,Quo Special,Breads,345.91
+1800,96,Expedita Combo,Starters,170.23
+1801,26,Consequatur Platter,Desserts,139.09
+1802,63,Officiis Bowl,Combos,649.87
+1803,92,Corporis Deluxe,Beverages,613.32
+1804,100,Deserunt Platter,Sides,148.56
+1805,14,Cupiditate Thali,Starters,144.59
+1806,45,Accusantium Bowl,Starters,625.54
+1807,31,Assumenda Special,Beverages,372.25
+1808,77,Est Wrap,Starters,375.75
+1809,38,Delectus Combo,Combos,111.96
+1810,55,Eius Deluxe,Breads,596.94
+1811,24,Natus Deluxe,Desserts,625.05
+1812,111,Minima Combo,Rice & Biryani,549.75
+1813,55,Vitae Deluxe,Combos,579.85
+1814,104,Suscipit Special,Breads,191.5
+1815,110,Tenetur Bowl,Breads,222.04
+1816,17,Blanditiis Platter,Starters,255.4
+1817,25,Reprehenderit Deluxe,Sides,63.25
+1818,26,Repudiandae Special,Starters,335.26
+1819,68,Facilis Combo,Rice & Biryani,216.33
+1820,55,Autem Platter,Starters,432.4
+1821,83,Adipisci Special,Desserts,132.54
+1822,47,At Combo,Beverages,583.69
+1823,32,Eius Combo,Starters,186.31
+1824,1,Tenetur Special,Beverages,208.98
+1825,61,Numquam Combo,Main Course,373.18
+1826,33,Debitis Platter,Beverages,300.71
+1827,15,Consectetur Special,Starters,562.22
+1828,99,Iure Thali,Breads,298.41
+1829,95,Cupiditate Thali,Beverages,607.2
+1830,76,Animi Bowl,Beverages,228.69
+1831,36,Officiis Deluxe,Sides,115.42
+1832,14,Architecto Deluxe,Main Course,80.78
+1833,117,Dolores Wrap,Rice & Biryani,194.7
+1834,58,Rem Special,Main Course,756.36
+1835,80,Non Combo,Desserts,594.01
+1836,98,Nam Deluxe,Breads,82.86
+1837,25,Praesentium Platter,Desserts,718.69
+1838,98,Aliquam Thali,Beverages,721.18
+1839,58,Modi Wrap,Main Course,733.14
+1840,9,Vero Platter,Sides,442.82
+1841,65,Nobis Thali,Starters,175.2
+1842,36,Doloribus Wrap,Breads,267.24
+1843,73,Libero Special,Rice & Biryani,605.54
+1844,51,Error Platter,Main Course,174.14
+1845,97,Ea Bowl,Sides,471.87
+1846,50,Harum Platter,Desserts,205.19
+1847,1,Hic Deluxe,Rice & Biryani,494.08
+1848,2,Occaecati Thali,Combos,427.86
+1849,93,Distinctio Bowl,Desserts,277.56
+1850,29,Aliquid Combo,Desserts,464.11
+1851,22,Sint Deluxe,Starters,450.17
+1852,38,Sit Special,Breads,756.53
+1853,36,Sint Deluxe,Desserts,705.04
+1854,7,Exercitationem Wrap,Rice & Biryani,792.15
+1855,27,Tenetur Bowl,Main Course,51.05
+1856,45,Impedit Wrap,Beverages,293.42
+1857,91,Praesentium Bowl,Desserts,591.56
+1858,53,Neque Bowl,Desserts,293.48
+1859,8,Quo Wrap,Starters,667.95
+1860,29,Perferendis Wrap,Desserts,182.55
+1861,3,Assumenda Bowl,Main Course,591.95
+1862,89,Commodi Platter,Desserts,702.52
+1863,82,Hic Bowl,Rice & Biryani,662.64
+1864,29,Molestiae Combo,Desserts,202.94
+1865,81,Deserunt Thali,Sides,166.73
+1866,30,Nihil Wrap,Sides,326.48
+1867,116,Eligendi Platter,Main Course,421.97
+1868,59,Temporibus Deluxe,Breads,191.64
+1869,63,Qui Wrap,Breads,535.67
+1870,3,Expedita Combo,Breads,713.94
+1871,105,Suscipit Platter,Rice & Biryani,102.09
+1872,10,Quisquam Platter,Rice & Biryani,391.27
+1873,83,Ad Platter,Main Course,593.23
+1874,18,Modi Wrap,Starters,502.47
+1875,49,Magnam Platter,Starters,132.53
+1876,2,Perferendis Thali,Starters,149.13
+1877,99,Quisquam Special,Desserts,156.98
+1878,81,Placeat Bowl,Starters,644.3
+1879,2,Laborum Thali,Main Course,456.78
+1880,105,Recusandae Combo,Main Course,201.74
+1881,62,Provident Thali,Combos,661.6
+1882,40,Iste Combo,Combos,165.88
+1883,8,Molestias Bowl,Desserts,520.61
+1884,16,Fugit Special,Starters,127.11
+1885,38,Ducimus Special,Sides,156.38
+1886,117,Alias Deluxe,Starters,220.01
+1887,50,Ipsum Deluxe,Beverages,541.52
+1888,29,Saepe Wrap,Sides,565.07
+1889,92,Est Thali,Main Course,418.87
+1890,15,Aliquam Deluxe,Main Course,767.35
+1891,37,Hic Combo,Main Course,511.77
+1892,16,Aspernatur Combo,Main Course,721.69
+1893,78,Optio Deluxe,Breads,371.47
+1894,43,Quia Bowl,Breads,559.57
+1895,20,Magnam Wrap,Desserts,518.57
+1896,37,Reprehenderit Combo,Main Course,253.32
+1897,64,Eveniet Wrap,Beverages,749.66
+1898,104,Dolore Wrap,Main Course,641.64
+1899,111,Consequuntur Deluxe,Breads,290.19
+1900,50,Expedita Platter,Combos,660.99
+1901,15,Unde Bowl,Sides,769.69
+1902,36,Excepturi Deluxe,Main Course,292.29
+1903,17,Fugiat Deluxe,Sides,314.46
+1904,64,Quibusdam Platter,Combos,570.07
+1905,53,Aspernatur Bowl,Beverages,153.67
+1906,84,Est Deluxe,Sides,363.99
+1907,64,Repellat Bowl,Combos,449.36
+1908,106,Molestias Deluxe,Sides,112.71
+1909,92,Libero Platter,Rice & Biryani,577.32
+1910,31,Doloribus Combo,Starters,202.46
+1911,109,Dolorum Special,Beverages,468.78
+1912,18,Ex Special,Starters,733.52
+1913,47,Rerum Thali,Breads,271.02
+1914,19,Ipsum Thali,Sides,231.87
+1915,106,Voluptatem Deluxe,Starters,610.25
+1916,16,Magnam Wrap,Breads,333.1
+1917,4,Rerum Wrap,Sides,328.76
+1918,90,Aliquam Special,Main Course,407.62
+1919,77,Voluptatibus Thali,Breads,72.64
+1920,47,Voluptates Deluxe,Main Course,233.78
+1921,2,Libero Bowl,Sides,162.29
+1922,24,Reiciendis Platter,Breads,611.08
+1923,90,Recusandae Combo,Combos,358.64
+1924,44,Dicta Platter,Starters,265.08
+1925,20,Recusandae Special,Starters,503.13
+1926,23,Eaque Bowl,Breads,58.15
+1927,107,Possimus Platter,Combos,465.62
+1928,107,Quis Combo,Desserts,582.01
+1929,55,Ipsa Deluxe,Desserts,779.84
+1930,67,Doloribus Platter,Breads,607.35
+1931,52,Porro Bowl,Starters,214.18
+1932,24,Amet Thali,Main Course,662.42
+1933,60,Consectetur Platter,Beverages,539.52
+1934,52,Aspernatur Thali,Sides,173.62
+1935,103,Eveniet Combo,Sides,196.05
+1936,14,Sed Special,Main Course,322.03
+1937,100,Est Thali,Beverages,71.04
+1938,37,Adipisci Deluxe,Main Course,98.99
+1939,77,Qui Special,Desserts,190.81
+1940,26,Perferendis Wrap,Starters,230.25
+1941,11,A Bowl,Starters,472.8
+1942,102,Iure Platter,Starters,86.04
+1943,12,Sint Combo,Starters,785.41
+1944,97,Eligendi Combo,Sides,425.16
+1945,41,Delectus Thali,Sides,594.27
+1946,17,Laboriosam Wrap,Main Course,298.49
+1947,115,Dolorum Wrap,Main Course,426.63
+1948,100,Iste Deluxe,Starters,490.38
+1949,49,Assumenda Platter,Starters,267.59
+1950,20,Adipisci Wrap,Combos,109.06
+1951,81,Dignissimos Special,Rice & Biryani,713.3
+1952,104,Repudiandae Wrap,Breads,626.62
+1953,21,Voluptatibus Bowl,Beverages,385.61
+1954,17,Dicta Combo,Desserts,320.24
+1955,110,Culpa Platter,Starters,718.01
+1956,100,Qui Wrap,Sides,229.33
+1957,79,Maiores Bowl,Main Course,768.51
+1958,73,Aut Wrap,Combos,123.05
+1959,2,Minima Deluxe,Desserts,460.35
+1960,103,Voluptatibus Thali,Main Course,424.18
+1961,59,Ut Combo,Breads,750.54
+1962,21,Nam Special,Desserts,482.38
+1963,46,Repudiandae Special,Main Course,184.39
+1964,99,Consequuntur Platter,Desserts,789.61
+1965,33,Labore Thali,Combos,537.72
+1966,18,Incidunt Special,Combos,79.69
+1967,110,Iste Combo,Sides,356.77
+1968,80,Deleniti Wrap,Breads,380.62
+1969,66,Dolore Thali,Beverages,330.26
+1970,88,Nostrum Platter,Combos,247.12
+1971,113,Tempore Wrap,Starters,515.46
+1972,83,Placeat Special,Rice & Biryani,574.81
+1973,72,Totam Special,Breads,689.79
+1974,38,Ipsum Platter,Breads,477.6
+1975,110,Doloribus Special,Rice & Biryani,341.17
+1976,60,Voluptatum Wrap,Main Course,311.7
+1977,60,Ratione Wrap,Combos,131.84
+1978,24,Voluptate Wrap,Main Course,738.1
+1979,119,Sint Platter,Sides,199.6
+1980,43,Magnam Special,Beverages,306.82
+1981,78,Et Platter,Rice & Biryani,576.72
+1982,61,Vel Special,Desserts,390.93
+1983,70,Repudiandae Deluxe,Combos,159.14
+1984,28,Doloribus Combo,Starters,790.86
+1985,100,Minus Platter,Starters,752.34
+1986,47,Inventore Thali,Sides,783.92
+1987,28,Voluptas Special,Rice & Biryani,701.02
+1988,98,Impedit Wrap,Sides,252.39
+1989,82,Debitis Deluxe,Main Course,156.3
+1990,36,Dolorum Platter,Main Course,273.75
+1991,92,A Platter,Sides,443.58
+1992,86,Voluptates Combo,Breads,672.91
+1993,12,Rem Platter,Beverages,772.52
+1994,39,Mollitia Deluxe,Rice & Biryani,311.96
+1995,54,Reiciendis Platter,Combos,451.63
+1996,101,Aliquid Deluxe,Sides,316.02
+1997,89,Ducimus Bowl,Sides,667.26
+1998,72,Sed Thali,Rice & Biryani,108.36
+1999,86,Ipsum Bowl,Breads,292.8
+2000,106,Similique Wrap,Beverages,60.64
+2001,115,Est Platter,Breads,424.58
+2002,41,Tempore Special,Sides,247.1
+2003,93,Recusandae Special,Combos,757.49
+2004,110,Corporis Deluxe,Combos,529.19
+2005,75,Praesentium Special,Starters,213.97
+2006,25,Dicta Platter,Breads,500.71
+2007,28,Iure Combo,Rice & Biryani,764.28
+2008,87,Autem Bowl,Starters,327.69
+2009,47,Ex Special,Desserts,722.49
+2010,65,Laborum Thali,Main Course,574.49
+2011,84,Ipsum Platter,Sides,357.79
+2012,46,Doloremque Thali,Sides,442.38
+2013,98,Tempora Combo,Main Course,744.76
+2014,59,Commodi Platter,Beverages,182.67
+2015,77,Voluptatum Deluxe,Sides,336.17
+2016,109,Velit Wrap,Sides,525.58
+2017,90,Tempore Bowl,Main Course,796.52
+2018,104,Iusto Thali,Main Course,117.23
+2019,3,Occaecati Bowl,Sides,127.76
+2020,96,Accusamus Thali,Main Course,525.14
+2021,65,Fuga Bowl,Starters,550.78
+2022,110,Eos Platter,Rice & Biryani,217.16
+2023,59,Expedita Bowl,Sides,135.88
+2024,110,Voluptate Platter,Main Course,312.96
+2025,102,Atque Platter,Sides,731.0
+2026,83,Laudantium Wrap,Sides,55.7
+2027,48,Facere Thali,Rice & Biryani,430.67
+2028,35,Corrupti Wrap,Desserts,280.55
+2029,116,A Thali,Sides,554.98
+2030,1,Architecto Platter,Starters,61.65
+2031,20,Molestiae Thali,Beverages,680.58
+2032,67,Nulla Thali,Beverages,301.32
+2033,74,Nihil Platter,Rice & Biryani,466.8
+2034,51,Doloremque Deluxe,Sides,671.41
+2035,103,Neque Bowl,Sides,146.65
+2036,82,Possimus Platter,Breads,352.34
+2037,41,Minus Bowl,Breads,378.05
+2038,13,Laudantium Wrap,Breads,428.19
+2039,81,Quisquam Bowl,Sides,682.27
+2040,81,Minus Combo,Breads,761.53
+2041,27,Consequuntur Special,Main Course,69.23
+2042,2,Perferendis Wrap,Breads,70.86
+2043,91,Repellat Bowl,Main Course,478.85
+2044,4,Totam Wrap,Breads,787.56
+2045,82,Vitae Wrap,Beverages,189.92
+2046,84,Et Deluxe,Desserts,195.37
+2047,108,Dolorem Deluxe,Sides,627.79
+2048,85,Odio Special,Desserts,112.22
+2049,19,Aut Wrap,Starters,528.79
+2050,75,Aliquid Thali,Main Course,133.2
+2051,119,Impedit Bowl,Main Course,130.31
+2052,37,Adipisci Combo,Breads,119.58
+2053,64,Ipsum Thali,Beverages,734.54
+2054,27,Facilis Platter,Main Course,418.28
+2055,3,Corporis Platter,Main Course,414.89
+2056,81,Aut Special,Rice & Biryani,565.5
+2057,49,Laboriosam Combo,Combos,656.41
+2058,24,Dolores Combo,Starters,727.73
+2059,85,Minus Bowl,Starters,137.91
+2060,44,Dolorem Combo,Combos,796.19
+2061,77,Autem Bowl,Starters,168.79
+2062,95,Quo Combo,Main Course,194.63
+2063,4,Consectetur Bowl,Starters,438.5
+2064,98,Labore Deluxe,Rice & Biryani,700.16
+2065,15,Saepe Deluxe,Starters,295.65
+2066,29,Sint Special,Breads,250.69
+2067,62,Perspiciatis Deluxe,Main Course,311.42
+2068,71,Voluptatibus Wrap,Desserts,400.28
+2069,104,Aliquam Platter,Sides,434.49
+2070,52,Non Deluxe,Desserts,179.72
+2071,88,Ullam Thali,Desserts,771.4
+2072,14,Doloremque Bowl,Desserts,174.24
+2073,27,Sequi Wrap,Combos,375.1
+2074,58,Nostrum Platter,Desserts,661.92
+2075,80,Dolore Special,Sides,371.98
+2076,73,Asperiores Combo,Beverages,723.42
+2077,105,Consequuntur Special,Combos,175.44
+2078,5,Iure Bowl,Desserts,490.15
+2079,38,Enim Bowl,Beverages,348.73
+2080,15,Eaque Deluxe,Beverages,372.04
+2081,24,Nemo Combo,Rice & Biryani,104.48
+2082,85,Voluptatem Combo,Beverages,158.78
+2083,41,Quod Special,Starters,288.94
+2084,2,Quis Wrap,Beverages,210.33
+2085,73,Fuga Thali,Beverages,724.06
+2086,72,Ut Special,Sides,262.71
+2087,28,Id Bowl,Rice & Biryani,127.19
+2088,36,In Wrap,Main Course,480.46
+2089,83,Ex Platter,Sides,288.34
+2090,41,Consequatur Deluxe,Rice & Biryani,87.24
+2091,64,Architecto Platter,Starters,792.69
+2092,54,Mollitia Special,Main Course,389.59
+2093,77,Rem Combo,Sides,227.32
+2094,3,Quo Combo,Starters,532.75
+2095,110,Porro Bowl,Starters,733.73
+2096,37,Dolor Deluxe,Sides,77.76
+2097,69,Asperiores Bowl,Starters,303.04
+2098,3,Magni Special,Combos,121.34
+2099,103,A Platter,Desserts,256.01
+2100,97,Nobis Combo,Sides,109.83
+2101,100,Commodi Combo,Combos,509.24
+2102,51,Impedit Combo,Combos,420.0
+2103,83,Ut Special,Beverages,753.28
+2104,14,Sunt Special,Rice & Biryani,85.88
+2105,2,Sapiente Deluxe,Main Course,795.16
+2106,111,Perferendis Wrap,Sides,219.76
+2107,12,Eligendi Deluxe,Beverages,662.11
+2108,69,Consequatur Special,Starters,244.77
+2109,101,Alias Special,Main Course,86.0
+2110,39,Enim Special,Desserts,297.0
+2111,79,Dolores Thali,Sides,252.43
+2112,22,Tempore Deluxe,Combos,139.93
+2113,41,Illum Thali,Breads,614.78
+2114,114,Beatae Thali,Sides,527.68
+2115,86,Pariatur Special,Rice & Biryani,483.41
+2116,85,Cum Platter,Desserts,291.43
+2117,94,Inventore Platter,Rice & Biryani,118.85
+2118,99,Nam Combo,Main Course,314.76
+2119,107,Optio Thali,Rice & Biryani,544.61
+2120,95,Porro Thali,Rice & Biryani,571.22
+2121,10,Ut Platter,Starters,209.36
+2122,86,Fuga Deluxe,Combos,663.88
+2123,25,Consectetur Platter,Main Course,305.34
+2124,105,Temporibus Bowl,Beverages,620.37
+2125,40,Quisquam Wrap,Combos,541.47
+2126,109,Molestias Bowl,Main Course,735.59
+2127,29,Ea Combo,Sides,781.3
+2128,112,Maxime Bowl,Rice & Biryani,635.02
+2129,25,Modi Special,Desserts,367.32
+2130,88,Maxime Combo,Main Course,160.47
+2131,113,Ea Special,Main Course,230.42
+2132,115,Occaecati Platter,Breads,250.07
+2133,61,Aperiam Wrap,Combos,313.97
+2134,16,Fuga Bowl,Main Course,315.82
+2135,28,Nulla Deluxe,Sides,426.64
+2136,66,Omnis Combo,Starters,381.01
+2137,48,Fuga Special,Starters,536.47
+2138,94,Et Platter,Rice & Biryani,270.5
+2139,52,Fugiat Deluxe,Desserts,447.17
+2140,64,Recusandae Bowl,Sides,131.89
+2141,7,Assumenda Wrap,Rice & Biryani,769.23
+2142,29,Distinctio Special,Starters,721.29
+2143,74,Voluptatem Combo,Rice & Biryani,99.39
+2144,13,Vel Combo,Rice & Biryani,711.95
+2145,90,Consequatur Wrap,Sides,343.93
+2146,13,Blanditiis Deluxe,Desserts,421.38
+2147,22,Velit Thali,Rice & Biryani,310.72
+2148,37,Laborum Wrap,Desserts,600.41
+2149,13,Quis Deluxe,Combos,604.32
+2150,110,Neque Wrap,Rice & Biryani,177.67
+2151,88,Repudiandae Special,Breads,190.51
+2152,116,Eum Platter,Breads,771.68
+2153,86,Quod Platter,Sides,300.54
+2154,23,Assumenda Combo,Main Course,178.04
+2155,98,Molestias Thali,Starters,495.5
+2156,61,Quasi Bowl,Starters,416.23
+2157,32,Nihil Platter,Main Course,83.88
+2158,3,Quidem Bowl,Desserts,676.52
+2159,68,Vitae Bowl,Breads,616.24
+2160,100,Pariatur Special,Main Course,278.45
+2161,95,Rem Combo,Combos,418.0
+2162,45,Ex Bowl,Desserts,547.56
+2163,33,Pariatur Combo,Combos,60.17
+2164,46,In Combo,Beverages,718.53
+2165,100,Beatae Wrap,Combos,134.57
+2166,88,Nam Bowl,Starters,160.93
+2167,53,Aliquid Thali,Rice & Biryani,544.53
+2168,19,Provident Combo,Combos,73.18
+2169,74,Rem Wrap,Sides,319.56
+2170,96,Quas Special,Rice & Biryani,740.49
+2171,49,Rem Wrap,Main Course,774.09
+2172,113,Veritatis Wrap,Combos,790.5
+2173,113,Sit Bowl,Breads,248.98
+2174,87,Dignissimos Combo,Beverages,343.27
+2175,54,Cumque Combo,Desserts,192.93
+2176,75,Occaecati Bowl,Beverages,675.63
+2177,16,Doloribus Platter,Combos,475.0
+2178,102,Doloremque Thali,Beverages,266.31
+2179,2,Error Platter,Breads,399.74
+2180,20,Earum Bowl,Desserts,517.85
+2181,86,Debitis Deluxe,Desserts,415.12
+2182,9,Animi Thali,Desserts,61.69
+2183,6,Nisi Deluxe,Desserts,669.1
+2184,16,Beatae Special,Combos,279.37
+2185,56,Vero Combo,Starters,87.43
+2186,18,Nostrum Combo,Desserts,638.95
+2187,65,Eligendi Wrap,Breads,765.26
+2188,92,Sunt Combo,Breads,796.94
+2189,26,Dignissimos Platter,Main Course,268.1
+2190,5,Saepe Platter,Beverages,236.55
+2191,87,Facilis Wrap,Sides,366.92
+2192,116,Ipsum Special,Desserts,740.15
+2193,77,Atque Combo,Breads,472.93
+2194,87,Commodi Combo,Breads,562.49
+2195,26,Molestias Combo,Breads,362.23
+2196,26,Quos Combo,Desserts,114.2
+2197,73,Nam Wrap,Combos,459.37
+2198,49,Quod Thali,Sides,122.03
+2199,68,Itaque Platter,Beverages,427.86
+2200,88,Harum Wrap,Beverages,401.28
+2201,55,Quasi Platter,Sides,771.09
+2202,60,Officia Special,Starters,768.12
+2203,54,Accusantium Special,Breads,511.41
+2204,39,Voluptates Thali,Rice & Biryani,485.24
+2205,48,Soluta Deluxe,Desserts,90.15
+2206,109,Repudiandae Platter,Breads,352.21
+2207,1,Quasi Platter,Combos,679.4
+2208,11,Nihil Special,Desserts,672.42
+2209,84,Culpa Special,Beverages,495.75
+2210,106,Nesciunt Combo,Combos,567.94
+2211,111,Distinctio Special,Main Course,605.35
+2212,87,Dignissimos Bowl,Starters,576.18
+2213,67,Reiciendis Deluxe,Combos,152.3
+2214,115,Repudiandae Wrap,Breads,275.67
+2215,40,Reprehenderit Wrap,Starters,654.21
+2216,80,Consequuntur Wrap,Rice & Biryani,136.03
+2217,1,Corrupti Deluxe,Main Course,439.87
+2218,32,Recusandae Deluxe,Main Course,405.31
+2219,107,Consequuntur Bowl,Combos,343.04
+2220,119,Illo Special,Desserts,353.42
+2221,24,Quidem Thali,Rice & Biryani,681.29
+2222,70,Laborum Combo,Combos,694.49
+2223,79,Neque Special,Sides,159.68
+2224,3,Fuga Deluxe,Breads,663.91
+2225,85,Molestiae Deluxe,Breads,433.64
+2226,90,Ullam Bowl,Rice & Biryani,407.12
+2227,38,Placeat Combo,Main Course,769.32
+2228,64,Rem Combo,Desserts,343.39
+2229,90,Sequi Thali,Main Course,397.97
+2230,105,Pariatur Platter,Breads,70.98
+2231,59,Amet Special,Sides,58.26
+2232,39,Doloribus Special,Combos,81.97
+2233,117,Harum Combo,Breads,400.93
+2234,93,Necessitatibus Platter,Desserts,56.84
+2235,21,Dicta Combo,Rice & Biryani,311.63
+2236,91,Sit Bowl,Sides,434.78
+2237,23,Sequi Wrap,Breads,313.9
+2238,93,Vero Bowl,Beverages,394.61
+2239,110,Voluptate Thali,Breads,258.76
+2240,98,Natus Wrap,Desserts,742.61
+2241,9,Amet Thali,Combos,332.39
+2242,61,Nam Bowl,Breads,482.03
+2243,119,Iure Bowl,Desserts,147.07
+2244,42,Voluptas Bowl,Beverages,488.37
+2245,107,Ex Platter,Main Course,83.7
+2246,110,Architecto Wrap,Breads,223.78
+2247,86,Pariatur Special,Combos,750.68
+2248,61,Fugiat Combo,Rice & Biryani,786.0
+2249,104,Minima Wrap,Rice & Biryani,129.07
+2250,113,Adipisci Deluxe,Sides,616.86
+2251,54,Labore Special,Starters,508.93
+2252,15,Incidunt Special,Main Course,381.15
+2253,48,Ipsa Bowl,Starters,742.66
+2254,42,Hic Special,Combos,333.22
+2255,82,Porro Bowl,Rice & Biryani,196.79
+2256,63,Voluptatem Platter,Desserts,219.12
+2257,95,Vitae Deluxe,Sides,660.38
+2258,104,Consequuntur Thali,Rice & Biryani,114.51
+2259,4,Eum Wrap,Main Course,202.65
+2260,104,Deleniti Deluxe,Starters,319.67
+2261,53,In Bowl,Main Course,305.53
+2262,88,Numquam Wrap,Combos,192.6
+2263,27,Iste Bowl,Combos,425.64
+2264,46,Fugiat Bowl,Breads,651.2
+2265,57,Nesciunt Platter,Sides,705.48
+2266,73,Sed Special,Breads,636.79
+2267,39,Tenetur Special,Main Course,424.03
+2268,7,Commodi Bowl,Beverages,66.91
+2269,106,Eaque Combo,Desserts,342.82
+2270,46,Numquam Special,Breads,776.09
+2271,10,Error Bowl,Rice & Biryani,689.9
+2272,120,Nemo Bowl,Desserts,349.41
+2273,8,Placeat Bowl,Main Course,487.08
+2274,120,Quas Combo,Starters,74.21
+2275,54,Minima Combo,Rice & Biryani,300.91
+2276,98,Aspernatur Special,Breads,203.17
+2277,105,Quam Wrap,Beverages,743.13
+2278,85,Dolore Special,Rice & Biryani,420.17
+2279,104,At Bowl,Starters,309.38
+2280,10,Ipsa Platter,Main Course,715.64
+2281,62,Voluptatum Deluxe,Desserts,592.5
+2282,14,Quae Special,Combos,430.7
+2283,84,Necessitatibus Combo,Sides,408.19
+2284,101,Deleniti Thali,Rice & Biryani,66.08
+2285,8,Qui Special,Rice & Biryani,450.64
+2286,111,Reiciendis Platter,Starters,464.37
+2287,7,Aliquam Platter,Sides,571.58
+2288,56,Doloribus Wrap,Sides,462.16
+2289,15,Earum Platter,Main Course,722.86
+2290,116,Eligendi Combo,Beverages,195.23
+2291,56,Aspernatur Special,Rice & Biryani,224.03
+2292,76,Expedita Special,Rice & Biryani,359.8
+2293,97,Aliquid Thali,Starters,793.2
+2294,2,Odit Thali,Rice & Biryani,659.47
+2295,10,Architecto Special,Breads,378.92
+2296,37,Magni Special,Beverages,312.25
+2297,84,Voluptatibus Deluxe,Desserts,147.29
+2298,51,Eius Platter,Main Course,542.44
+2299,10,Harum Combo,Rice & Biryani,421.2
+2300,95,Maxime Thali,Beverages,723.23
+2301,110,Officiis Deluxe,Combos,584.85
+2302,47,Quae Thali,Desserts,701.73
+2303,32,Nam Bowl,Desserts,289.14
+2304,70,Tempora Bowl,Main Course,90.5
+2305,116,Cupiditate Platter,Combos,259.84
+2306,27,Vero Deluxe,Rice & Biryani,278.7
+2307,71,Aliquam Deluxe,Main Course,329.29
+2308,105,Excepturi Thali,Breads,76.9
+2309,31,Minima Wrap,Combos,537.43
+2310,59,Porro Special,Starters,424.18
+2311,5,Saepe Combo,Desserts,491.18
+2312,39,Occaecati Thali,Main Course,94.79
+2313,110,Dolorum Bowl,Sides,421.52
+2314,111,Pariatur Platter,Sides,383.01
+2315,29,Repudiandae Deluxe,Sides,188.32
+2316,56,Quod Bowl,Starters,545.3
+2317,5,Laudantium Bowl,Beverages,752.92
+2318,117,Laborum Bowl,Beverages,742.02
+2319,117,Dolorem Combo,Rice & Biryani,617.94
+2320,44,Facilis Wrap,Sides,699.31
+2321,101,Voluptas Wrap,Starters,655.55
+2322,71,Consectetur Platter,Desserts,693.89
+2323,69,Id Platter,Sides,479.45
+2324,73,Aliquam Thali,Desserts,171.91
+2325,49,Molestiae Platter,Rice & Biryani,148.9
+2326,2,Architecto Combo,Desserts,114.15
+2327,32,Dolorem Thali,Desserts,303.15
+2328,51,Rem Special,Desserts,321.27
+2329,85,Error Combo,Starters,143.23
+2330,73,Est Wrap,Beverages,677.0
+2331,109,Tenetur Deluxe,Combos,397.04
+2332,57,Et Special,Combos,77.75
+2333,46,Veritatis Platter,Rice & Biryani,356.46
+2334,75,Enim Special,Desserts,722.78
+2335,71,Fugiat Combo,Main Course,380.33
+2336,34,Totam Thali,Desserts,244.66
+2337,64,Nemo Deluxe,Rice & Biryani,522.75
+2338,19,Quam Thali,Starters,224.5
+2339,84,Adipisci Special,Breads,563.33
+2340,111,Vero Platter,Beverages,81.47
+2341,92,Accusamus Deluxe,Starters,763.78
+2342,34,Pariatur Combo,Starters,558.79
+2343,110,Delectus Thali,Beverages,455.33
+2344,6,Tenetur Bowl,Rice & Biryani,312.3
+2345,10,Doloribus Bowl,Combos,134.89
+2346,10,Sapiente Deluxe,Rice & Biryani,294.34
+2347,48,Accusamus Thali,Sides,103.54
+2348,55,Et Combo,Breads,68.52
+2349,78,Explicabo Thali,Beverages,301.24
+2350,53,Sequi Wrap,Beverages,403.01
+2351,38,Inventore Bowl,Starters,170.23
+2352,6,Voluptatum Combo,Breads,733.9
+2353,4,Temporibus Special,Rice & Biryani,656.03
+2354,66,Harum Wrap,Beverages,754.95
+2355,49,Nisi Thali,Starters,542.79
+2356,20,Minus Platter,Main Course,766.38
+2357,120,Laudantium Deluxe,Sides,454.23
+2358,16,Officia Thali,Starters,505.33
+2359,85,Explicabo Bowl,Combos,287.7
+2360,25,Esse Thali,Desserts,733.3
+2361,43,Omnis Deluxe,Beverages,223.17
+2362,41,Incidunt Wrap,Main Course,569.8
+2363,57,Veritatis Wrap,Sides,321.41
+2364,46,Quasi Bowl,Main Course,735.98
+2365,84,Soluta Platter,Rice & Biryani,386.73
+2366,54,Nam Deluxe,Breads,744.29
+2367,32,Reprehenderit Thali,Sides,555.58
+2368,86,Corporis Deluxe,Desserts,646.89
+2369,44,Ab Combo,Main Course,111.13
+2370,54,Quaerat Bowl,Breads,482.01
+2371,81,Ut Thali,Rice & Biryani,724.9
+2372,113,Minima Platter,Starters,175.08
+2373,54,Ratione Combo,Combos,607.14
+2374,17,Tenetur Thali,Starters,675.39
+2375,4,Saepe Wrap,Breads,792.45
+2376,17,Sequi Bowl,Sides,728.2
+2377,46,Id Deluxe,Sides,572.7
+2378,31,In Wrap,Desserts,139.27
+2379,115,Vitae Thali,Beverages,493.61
+2380,79,Corrupti Special,Starters,105.31
+2381,118,Perspiciatis Combo,Combos,733.01
+2382,81,At Platter,Sides,266.97
+2383,62,Labore Wrap,Breads,600.08
+2384,93,Harum Thali,Main Course,164.19
+2385,1,Tempore Bowl,Beverages,555.43
+2386,59,Itaque Platter,Beverages,378.94
+2387,66,Harum Wrap,Desserts,758.58
+2388,13,Facilis Deluxe,Desserts,419.97
+2389,7,Ullam Bowl,Sides,263.94
+2390,50,Totam Combo,Breads,765.14
+2391,6,In Thali,Rice & Biryani,372.9
+2392,36,Eaque Bowl,Beverages,124.6
+2393,37,Distinctio Deluxe,Main Course,265.88
+2394,63,Quas Platter,Rice & Biryani,714.01
+2395,37,Excepturi Combo,Main Course,743.39
+2396,86,Aspernatur Combo,Breads,121.98
+2397,71,Sapiente Thali,Breads,70.51
+2398,116,Necessitatibus Special,Rice & Biryani,55.0
+2399,107,Ut Thali,Starters,327.16
+2400,37,Ipsum Bowl,Sides,599.07
+2401,67,Vero Deluxe,Combos,271.21
+2402,15,Deserunt Wrap,Main Course,383.3
+2403,56,Alias Platter,Desserts,115.15
+2404,18,Ullam Combo,Main Course,776.33
+2405,103,Praesentium Special,Rice & Biryani,595.52
+2406,42,Impedit Deluxe,Beverages,257.08
+2407,81,Facilis Wrap,Main Course,580.11
+2408,41,Nihil Special,Sides,125.33
+2409,91,Necessitatibus Thali,Beverages,192.8
+2410,72,Molestias Wrap,Starters,761.89
+2411,81,Amet Special,Rice & Biryani,152.66
+2412,49,Reprehenderit Thali,Rice & Biryani,555.01
+2413,34,Voluptatum Platter,Breads,413.38
+2414,24,Rem Wrap,Combos,261.95
+2415,26,Eaque Wrap,Main Course,763.12
+2416,110,Laboriosam Wrap,Rice & Biryani,52.4
+2417,9,Est Platter,Rice & Biryani,582.49
+2418,5,Vitae Platter,Desserts,510.03
+2419,81,Quibusdam Bowl,Rice & Biryani,528.29
+2420,62,Tempore Bowl,Breads,708.42
+2421,108,Pariatur Deluxe,Desserts,550.98
+2422,63,Velit Thali,Sides,498.38
+2423,70,Magnam Platter,Desserts,122.4
+2424,15,Quae Thali,Desserts,364.7
+2425,58,In Combo,Rice & Biryani,546.81
+2426,15,Dolores Deluxe,Combos,767.24
+2427,85,Unde Special,Beverages,572.73
+2428,91,Quos Deluxe,Combos,680.09
+2429,111,Ducimus Platter,Sides,565.42
+2430,4,Impedit Combo,Desserts,430.62
+2431,114,Consequatur Thali,Sides,95.6
+2432,99,Optio Combo,Desserts,556.24
+2433,53,Debitis Platter,Combos,368.9
+2434,34,Facilis Special,Desserts,414.13
+2435,29,Ratione Combo,Starters,281.38
+2436,53,Ducimus Deluxe,Breads,452.01
+2437,100,Vero Wrap,Main Course,760.91
+2438,79,Iusto Bowl,Beverages,146.91
+2439,70,Ullam Special,Starters,651.81
+2440,12,Commodi Thali,Beverages,734.17
+2441,99,Est Thali,Main Course,541.2
+2442,67,Libero Deluxe,Beverages,451.6
+2443,21,Et Thali,Sides,694.79
+2444,30,Inventore Combo,Breads,732.99
+2445,43,Nihil Platter,Rice & Biryani,464.71
+2446,32,Iure Special,Starters,684.11
+2447,97,Minima Bowl,Main Course,426.12
+2448,102,Facilis Platter,Starters,167.71
+2449,39,Reprehenderit Special,Rice & Biryani,523.67
+2450,89,Impedit Deluxe,Starters,254.34
+2451,16,Officiis Thali,Sides,541.46
+2452,17,Cumque Thali,Desserts,696.49
+2453,10,Optio Special,Sides,65.12
+2454,96,Asperiores Thali,Breads,121.67
+2455,76,Tempora Thali,Sides,195.71
+2456,78,Reprehenderit Thali,Desserts,638.58
+2457,55,Repellendus Bowl,Starters,276.62
+2458,59,Sit Deluxe,Main Course,248.2
+2459,84,Aut Bowl,Combos,332.44
+2460,55,Optio Special,Rice & Biryani,775.16
+2461,72,Earum Combo,Combos,263.32
+2462,90,Provident Bowl,Rice & Biryani,336.81
+2463,64,Cumque Wrap,Sides,763.59
+2464,98,Vero Bowl,Main Course,389.2
+2465,74,Modi Special,Sides,628.4
+2466,58,Quia Combo,Combos,472.36
+2467,83,In Combo,Beverages,157.83
+2468,81,Neque Special,Main Course,470.66
+2469,27,Asperiores Thali,Combos,495.06
+2470,11,Distinctio Deluxe,Sides,512.37
+2471,61,Deserunt Bowl,Rice & Biryani,94.2
+2472,64,Eligendi Combo,Sides,283.59
+2473,44,Laboriosam Thali,Breads,77.38
+2474,89,Nemo Bowl,Sides,703.57
+2475,35,Reiciendis Wrap,Rice & Biryani,616.28
+2476,102,Officia Platter,Combos,284.76
+2477,84,Dicta Deluxe,Beverages,396.03
+2478,62,Ipsam Bowl,Main Course,740.92
+2479,55,Ducimus Wrap,Main Course,331.76
+2480,97,Beatae Special,Breads,439.95
+2481,16,Placeat Deluxe,Rice & Biryani,378.2
+2482,15,Iusto Special,Sides,421.39
+2483,81,Suscipit Thali,Combos,154.9
+2484,112,Dolorum Bowl,Sides,349.55
+2485,38,Ipsam Special,Sides,796.81
+2486,93,Tempora Wrap,Desserts,441.86
+2487,79,Aspernatur Combo,Breads,156.14
+2488,67,Ab Wrap,Rice & Biryani,652.11
+2489,92,Odio Combo,Desserts,404.08
+2490,27,Harum Combo,Breads,173.18
+2491,92,Eos Thali,Combos,57.37
+2492,54,Dolores Deluxe,Breads,402.87
+2493,1,Repellat Combo,Rice & Biryani,199.45
+2494,13,Dolore Bowl,Combos,298.28
+2495,8,Porro Bowl,Combos,495.84
+2496,9,Commodi Combo,Rice & Biryani,308.72
+2497,2,Delectus Deluxe,Desserts,263.14
+2498,117,Sint Thali,Sides,488.35
+2499,40,Nostrum Combo,Sides,750.73
+2500,72,Tempora Bowl,Rice & Biryani,108.11
+2501,20,Nobis Special,Rice & Biryani,259.99
+2502,34,Necessitatibus Bowl,Main Course,145.03
+2503,67,Nobis Bowl,Sides,297.62
+2504,99,Perferendis Thali,Desserts,774.99
+2505,95,Molestiae Thali,Combos,206.98
+2506,1,Ab Thali,Rice & Biryani,791.82
+2507,12,Amet Thali,Breads,157.5
+2508,61,Quibusdam Thali,Starters,292.5
+2509,115,Eligendi Special,Breads,433.78
+2510,57,Minima Platter,Combos,295.32
+2511,65,Accusantium Thali,Main Course,230.58
+2512,51,Iste Platter,Sides,579.68
+2513,46,Quia Combo,Beverages,448.01
+2514,114,Eaque Bowl,Rice & Biryani,766.52
+2515,82,Ad Thali,Desserts,583.51
+2516,108,Veritatis Platter,Combos,417.57
+2517,101,Ab Combo,Main Course,468.43
+2518,56,Sunt Wrap,Beverages,183.51
+2519,111,Expedita Combo,Combos,628.06
+2520,45,Et Wrap,Sides,210.33
+2521,72,Voluptate Deluxe,Sides,330.65
+2522,120,Laborum Wrap,Starters,196.88
+2523,47,Ipsa Bowl,Rice & Biryani,54.21
+2524,40,Delectus Combo,Main Course,733.28
+2525,118,Corporis Combo,Starters,505.08
+2526,5,Molestiae Wrap,Desserts,531.26
+2527,51,Provident Special,Desserts,255.63
+2528,8,Repudiandae Bowl,Starters,697.39
+2529,119,Inventore Platter,Combos,417.73
+2530,61,Doloremque Wrap,Main Course,78.65
+2531,4,At Bowl,Breads,579.23
+2532,23,Aperiam Thali,Breads,112.12
+2533,107,In Thali,Main Course,92.04
+2534,82,Illum Wrap,Starters,285.68
+2535,110,Odit Bowl,Desserts,787.55
+2536,25,Quasi Wrap,Starters,299.5
+2537,87,Saepe Thali,Beverages,723.3
+2538,22,Qui Bowl,Beverages,437.26
+2539,86,Labore Platter,Sides,678.29
+2540,86,Nostrum Special,Main Course,194.7
+2541,98,Vitae Bowl,Breads,596.72
+2542,11,Deleniti Deluxe,Combos,83.38
+2543,78,Laboriosam Deluxe,Sides,179.73
+2544,96,Porro Thali,Starters,283.37
+2545,72,Magnam Combo,Main Course,306.09
+2546,73,Eaque Thali,Main Course,474.64
+2547,60,Doloremque Special,Main Course,738.51
+2548,24,Necessitatibus Wrap,Main Course,189.24
+2549,76,Ad Wrap,Starters,625.04
+2550,101,Eum Special,Rice & Biryani,528.46
+2551,59,Et Special,Rice & Biryani,280.84
+2552,88,Delectus Wrap,Rice & Biryani,610.56
+2553,95,Error Deluxe,Desserts,90.0
+2554,91,Adipisci Combo,Breads,259.22
+2555,73,Repudiandae Combo,Sides,219.47
+2556,25,Quae Combo,Rice & Biryani,182.83
+2557,38,Dolores Combo,Combos,248.41
+2558,63,Cupiditate Combo,Beverages,311.64
+2559,83,Maiores Bowl,Combos,672.13
+2560,88,Totam Thali,Breads,77.55
+2561,107,Amet Bowl,Sides,166.78
+2562,73,Minus Deluxe,Sides,310.19
+2563,104,Tempore Wrap,Desserts,205.59
+2564,90,Facere Bowl,Desserts,118.07
+2565,99,Quibusdam Deluxe,Desserts,213.69
+2566,34,Soluta Special,Main Course,437.77
+2567,81,Architecto Deluxe,Combos,154.86
+2568,76,Saepe Combo,Beverages,472.83
+2569,85,Architecto Bowl,Starters,291.78
+2570,14,Ut Wrap,Beverages,702.0
+2571,2,Corrupti Deluxe,Sides,406.62
+2572,44,Ullam Wrap,Main Course,190.33
+2573,46,Adipisci Combo,Breads,400.13
+2574,24,Architecto Thali,Starters,379.26
+2575,79,Voluptas Platter,Sides,598.22
+2576,61,Cum Thali,Rice & Biryani,239.43
+2577,48,Nesciunt Bowl,Beverages,411.92
+2578,52,Numquam Combo,Starters,778.07
+2579,113,Modi Deluxe,Main Course,365.74
+2580,100,Cupiditate Combo,Sides,494.81
+2581,21,Quo Bowl,Breads,741.77
+2582,114,Explicabo Bowl,Rice & Biryani,763.62
+2583,73,Pariatur Thali,Breads,147.42
+2584,43,Voluptates Thali,Starters,777.74
+2585,40,Dolor Thali,Breads,651.12
+2586,59,Enim Platter,Breads,395.44
+2587,85,Voluptate Deluxe,Rice & Biryani,712.22
+2588,39,Vitae Combo,Main Course,188.45
+2589,110,Suscipit Deluxe,Sides,117.63
+2590,32,Accusamus Deluxe,Beverages,53.71
+2591,21,Incidunt Combo,Main Course,403.1
+2592,88,Nihil Platter,Rice & Biryani,734.62
+2593,86,Ut Platter,Combos,579.67
+2594,98,Consequuntur Special,Sides,146.38
+2595,98,Ut Deluxe,Sides,629.95
+2596,115,Quasi Combo,Sides,497.7
+2597,69,Fugit Special,Beverages,416.23
+2598,95,Soluta Bowl,Starters,216.27
+2599,78,Sequi Deluxe,Rice & Biryani,326.85
+2600,44,Voluptates Bowl,Starters,507.92
+2601,97,Deserunt Platter,Main Course,534.18
+2602,18,Nihil Platter,Rice & Biryani,83.19
+2603,39,Corporis Platter,Main Course,304.69
+2604,84,Quaerat Deluxe,Sides,163.06
+2605,40,Sit Platter,Combos,76.12
+2606,54,Cumque Deluxe,Breads,348.66
+2607,67,Id Thali,Main Course,398.69
+2608,11,Cum Combo,Main Course,541.9
+2609,52,Corrupti Thali,Starters,170.66
+2610,17,Praesentium Bowl,Sides,564.72
+2611,2,Eius Platter,Sides,366.84
+2612,7,Sequi Combo,Sides,243.99
+2613,82,Eligendi Special,Combos,426.55
+2614,100,Fuga Platter,Beverages,683.13
+2615,47,Quasi Special,Breads,785.55
+2616,69,Eligendi Thali,Sides,702.74
+2617,11,Magnam Deluxe,Starters,302.84
+2618,120,Voluptatibus Wrap,Desserts,198.21
+2619,105,Nemo Bowl,Combos,376.17
+2620,60,Impedit Combo,Starters,141.16
+2621,63,Dolorem Platter,Beverages,87.56
+2622,77,Animi Wrap,Beverages,239.25
+2623,44,Quo Wrap,Desserts,625.13
+2624,4,Praesentium Bowl,Desserts,184.05
+2625,46,Eos Platter,Starters,385.08
+2626,39,Voluptas Wrap,Starters,496.83
+2627,46,Perspiciatis Wrap,Starters,448.45
+2628,51,Iure Deluxe,Breads,113.04
+2629,13,Ex Deluxe,Breads,524.69
+2630,56,A Combo,Beverages,778.89
+2631,89,Accusantium Bowl,Rice & Biryani,739.08
+2632,116,Velit Thali,Combos,80.48
+2633,42,Commodi Combo,Starters,160.06
+2634,93,Culpa Wrap,Main Course,336.43
+2635,93,Rem Special,Beverages,745.58
+2636,96,Velit Combo,Sides,350.55
+2637,24,Possimus Wrap,Desserts,591.2
+2638,96,Distinctio Special,Sides,773.87
+2639,102,Consectetur Deluxe,Desserts,796.19
+2640,79,Quaerat Bowl,Rice & Biryani,570.69
+2641,7,Autem Combo,Combos,211.41
+2642,120,Consequuntur Platter,Desserts,610.15
+2643,100,Facere Deluxe,Desserts,426.17
+2644,6,Temporibus Bowl,Sides,732.31
+2645,87,Eveniet Combo,Desserts,53.79
+2646,27,Odit Special,Sides,542.91
+2647,36,Impedit Combo,Combos,499.31
+2648,82,Fuga Combo,Main Course,215.99
+2649,3,Officiis Wrap,Beverages,215.79
+2650,79,Architecto Combo,Combos,490.94
+2651,82,Consequuntur Bowl,Beverages,456.09
+2652,61,Doloribus Bowl,Starters,307.21
+2653,41,Animi Combo,Combos,163.83
+2654,110,Illum Wrap,Combos,207.98
+2655,90,Magni Deluxe,Sides,241.77
+2656,5,Veritatis Wrap,Main Course,523.54
+2657,72,Ipsam Combo,Main Course,205.66
+2658,68,Nobis Combo,Desserts,268.87
+2659,41,Cum Platter,Combos,72.17
+2660,80,Consequatur Bowl,Breads,518.2
+2661,73,Aperiam Platter,Sides,796.87
+2662,3,Accusamus Thali,Desserts,467.33
+2663,63,Deserunt Deluxe,Sides,740.88
+2664,17,Ut Platter,Main Course,122.73
+2665,28,Tenetur Deluxe,Main Course,478.06
+2666,23,Dolores Thali,Breads,625.16
+2667,95,Iure Platter,Sides,314.02
+2668,28,Magnam Platter,Desserts,289.55
+2669,47,Nulla Wrap,Main Course,548.18
+2670,88,Soluta Wrap,Beverages,426.73
+2671,69,Fugiat Platter,Rice & Biryani,694.29
+2672,64,Consectetur Thali,Combos,264.71
+2673,119,Minima Platter,Breads,742.93
+2674,23,Laboriosam Platter,Desserts,52.5
+2675,107,Ducimus Combo,Combos,542.14
+2676,88,Cum Special,Sides,485.12
+2677,54,Natus Platter,Sides,191.66
+2678,4,Natus Bowl,Rice & Biryani,153.93
+2679,80,Odit Bowl,Main Course,499.68
+2680,94,Fugit Platter,Starters,293.77
+2681,32,Molestiae Deluxe,Combos,563.27
+2682,48,Voluptas Special,Sides,464.04
+2683,111,Perferendis Deluxe,Breads,393.33
+2684,93,Nihil Thali,Rice & Biryani,181.41
+2685,120,Totam Wrap,Rice & Biryani,292.04
+2686,38,Doloremque Special,Starters,205.26
+2687,60,Culpa Platter,Rice & Biryani,562.75
+2688,57,Delectus Deluxe,Breads,779.6
+2689,65,Voluptatem Wrap,Main Course,652.77
+2690,108,Assumenda Combo,Breads,233.65
+2691,93,Dolore Special,Starters,611.46
+2692,88,Corporis Wrap,Sides,700.3
+2693,61,Nesciunt Thali,Sides,102.77
+2694,54,Rerum Combo,Main Course,586.85
+2695,78,Perspiciatis Wrap,Starters,378.89
+2696,106,Reiciendis Wrap,Starters,269.72
+2697,51,Veritatis Thali,Starters,322.53
+2698,92,Nulla Bowl,Combos,371.44
+2699,16,Ducimus Special,Breads,685.3
+2700,98,Similique Thali,Main Course,591.5
+2701,47,Modi Platter,Beverages,156.46
+2702,32,Magnam Thali,Combos,207.56
+2703,13,Similique Combo,Main Course,393.68
+2704,91,Aliquam Platter,Rice & Biryani,617.74
+2705,44,Vitae Combo,Combos,298.0
+2706,58,Delectus Wrap,Desserts,476.17
+2707,77,Perspiciatis Special,Breads,161.02
+2708,37,Placeat Special,Rice & Biryani,710.13
+2709,73,Culpa Combo,Desserts,280.0
+2710,92,Neque Deluxe,Desserts,406.46
+2711,57,Nulla Wrap,Desserts,165.83
+2712,104,Aperiam Wrap,Breads,159.89
+2713,38,At Thali,Sides,242.98
+2714,30,Facilis Special,Rice & Biryani,487.42
+2715,19,Ullam Bowl,Starters,244.57
+2716,93,Ipsam Bowl,Sides,407.73
+2717,116,Accusantium Deluxe,Beverages,532.89
+2718,76,Voluptatibus Thali,Beverages,442.5
+2719,49,Veritatis Thali,Combos,536.28
+2720,112,Qui Bowl,Combos,181.54
+2721,115,Repellat Platter,Starters,551.56
+2722,9,Recusandae Combo,Rice & Biryani,281.98
+2723,29,Et Deluxe,Desserts,506.48
+2724,94,Velit Thali,Main Course,537.5
+2725,46,Labore Platter,Combos,477.06
+2726,82,Quas Special,Rice & Biryani,606.03
+2727,47,Quasi Wrap,Starters,348.87
+2728,13,Voluptas Combo,Main Course,253.61
+2729,69,Voluptates Thali,Main Course,777.83
+2730,8,Sit Platter,Rice & Biryani,233.52
+2731,103,Consequatur Wrap,Breads,567.27
+2732,84,Non Thali,Rice & Biryani,221.25
+2733,92,Ut Platter,Breads,80.17
+2734,78,Expedita Combo,Desserts,118.52
+2735,25,Perspiciatis Wrap,Main Course,729.61
+2736,17,Laborum Bowl,Desserts,95.65
+2737,30,Ut Deluxe,Combos,398.2
+2738,69,Veritatis Thali,Starters,289.14
+2739,82,Temporibus Special,Rice & Biryani,408.72
+2740,57,Molestiae Special,Combos,198.05
+2741,70,Distinctio Bowl,Rice & Biryani,498.72
+2742,39,Quos Bowl,Starters,486.29
+2743,111,Similique Special,Combos,633.05
+2744,25,Asperiores Bowl,Combos,794.18
+2745,33,Accusamus Thali,Sides,501.02
+2746,64,Temporibus Wrap,Breads,296.48
+2747,62,Dolore Bowl,Desserts,763.58
+2748,39,Quae Combo,Rice & Biryani,305.86
+2749,87,Optio Bowl,Desserts,519.44
+2750,15,Possimus Thali,Breads,415.69
+2751,41,Doloremque Bowl,Combos,421.84
+2752,23,Autem Special,Sides,554.73
+2753,13,Porro Thali,Combos,306.82
+2754,88,Iste Bowl,Breads,195.2
+2755,14,Excepturi Thali,Rice & Biryani,209.91
+2756,65,Iure Combo,Beverages,624.82
+2757,61,Hic Special,Desserts,745.66
+2758,27,Architecto Bowl,Breads,292.82
+2759,25,Quae Thali,Sides,639.36
+2760,110,Et Deluxe,Breads,294.26
+2761,67,Quo Platter,Sides,634.82
+2762,35,Temporibus Deluxe,Desserts,403.99
+2763,110,Minus Thali,Desserts,328.09
+2764,40,Necessitatibus Combo,Beverages,671.92
+2765,41,Ex Platter,Desserts,368.97
+2766,51,Beatae Thali,Sides,54.25
+2767,52,Officia Special,Sides,315.21
+2768,104,Numquam Deluxe,Combos,625.29
+2769,3,Rem Thali,Rice & Biryani,206.46
+2770,92,Occaecati Combo,Desserts,674.41
+2771,4,Commodi Combo,Sides,643.19
+2772,42,Praesentium Bowl,Rice & Biryani,648.11
+2773,80,Occaecati Bowl,Combos,692.3
+2774,14,Ipsam Special,Rice & Biryani,170.31
+2775,93,Cumque Platter,Combos,764.03
+2776,6,Praesentium Thali,Sides,565.85
+2777,117,Ullam Wrap,Combos,237.38
+2778,78,Ad Bowl,Sides,94.49
+2779,8,Corporis Wrap,Beverages,257.03
+2780,48,Necessitatibus Platter,Desserts,133.27
+2781,18,Neque Wrap,Main Course,293.41
+2782,100,Amet Wrap,Sides,668.23
+2783,112,Quos Deluxe,Desserts,480.57
+2784,72,Quo Special,Combos,233.92
+2785,74,A Bowl,Desserts,467.51
+2786,105,Consectetur Combo,Starters,155.35
+2787,99,Sed Special,Beverages,767.9
+2788,47,Sit Thali,Combos,610.45
+2789,28,Tempore Deluxe,Beverages,401.24
+2790,59,Incidunt Combo,Beverages,199.24
+2791,91,Quaerat Combo,Desserts,502.71
+2792,120,Ratione Special,Breads,139.39
+2793,53,Enim Platter,Sides,654.55
+2794,103,Ullam Special,Starters,734.74
+2795,66,Velit Combo,Starters,474.29
+2796,5,Odit Bowl,Beverages,642.6
+2797,63,Laboriosam Combo,Beverages,525.78
+2798,95,Maiores Special,Main Course,780.67
+2799,100,Asperiores Special,Breads,648.94
+2800,109,Et Thali,Main Course,480.44
+2801,60,Odit Bowl,Rice & Biryani,613.93
+2802,99,Iure Wrap,Sides,663.32
+2803,60,Ratione Platter,Breads,537.83
+2804,10,Sit Deluxe,Beverages,390.54
+2805,100,Sapiente Wrap,Sides,717.05
+2806,52,Pariatur Bowl,Desserts,54.77
+2807,107,Unde Platter,Starters,56.4
+2808,42,Maiores Platter,Breads,244.14
+2809,29,Odio Bowl,Beverages,449.27
+2810,84,Cum Wrap,Rice & Biryani,627.45
+2811,74,Consequatur Combo,Breads,191.64
+2812,19,Unde Deluxe,Desserts,186.19
+2813,4,Est Bowl,Starters,634.6
+2814,70,A Combo,Main Course,295.6
+2815,41,Laboriosam Deluxe,Rice & Biryani,201.28
+2816,21,Libero Platter,Desserts,224.73
+2817,118,Tempora Deluxe,Beverages,70.47
+2818,113,Illum Platter,Main Course,675.62
+2819,49,Quo Special,Combos,700.65
+2820,110,Quasi Wrap,Rice & Biryani,335.31
+2821,58,Minima Platter,Sides,198.98
+2822,99,Voluptates Platter,Main Course,119.64
+2823,23,Corrupti Bowl,Main Course,172.16
+2824,27,Aperiam Special,Combos,605.48
+2825,46,Doloremque Wrap,Beverages,361.35
+2826,27,Possimus Special,Beverages,408.48
+2827,66,Deserunt Special,Combos,62.11
+2828,49,Nemo Thali,Sides,350.23
+2829,110,Corrupti Special,Beverages,320.29
+2830,40,Facere Thali,Main Course,375.61
+2831,109,Similique Wrap,Desserts,222.02
+2832,90,Eius Special,Sides,706.96
+2833,3,Eaque Combo,Beverages,84.03
+2834,109,Cumque Deluxe,Breads,473.43
+2835,17,Mollitia Bowl,Breads,155.17
+2836,61,Esse Thali,Starters,95.89
+2837,103,Officia Deluxe,Desserts,328.78
+2838,54,Eaque Thali,Breads,364.43
+2839,23,Labore Bowl,Breads,606.48
+2840,104,Corrupti Wrap,Breads,323.8
+2841,119,Nesciunt Special,Breads,72.49
+2842,27,Aperiam Combo,Sides,518.98
+2843,117,Tempora Thali,Desserts,516.44
+2844,4,Veniam Thali,Starters,298.69
+2845,114,Repudiandae Platter,Starters,601.21
+2846,19,Cupiditate Platter,Starters,454.61
+2847,98,Odio Bowl,Breads,168.63
+2848,2,Officia Combo,Rice & Biryani,119.09
+2849,9,Unde Special,Combos,398.32
+2850,54,Repudiandae Thali,Combos,150.8
+2851,78,Quae Thali,Starters,283.57
+2852,61,Deleniti Combo,Breads,292.16
+2853,70,Praesentium Combo,Main Course,408.34
+2854,96,Ab Thali,Rice & Biryani,144.37
+2855,66,Quia Deluxe,Breads,219.16
+2856,11,Architecto Wrap,Main Course,587.95
+2857,37,Quod Bowl,Main Course,237.33
+2858,33,Non Deluxe,Desserts,296.47
+2859,60,Reprehenderit Wrap,Desserts,619.92
+2860,17,Perspiciatis Combo,Sides,331.08
+2861,19,Quaerat Bowl,Starters,610.95
+2862,103,Dolorum Platter,Starters,645.65
+2863,24,Voluptate Special,Breads,525.97
+2864,107,Repellendus Thali,Rice & Biryani,171.41
+2865,42,Doloribus Special,Combos,412.88
+2866,45,Debitis Deluxe,Sides,389.08
+2867,28,Corporis Platter,Desserts,459.41
+2868,16,Molestias Wrap,Desserts,541.6
+2869,66,Unde Combo,Beverages,797.51
+2870,24,Sapiente Combo,Beverages,655.24
+2871,63,Sequi Thali,Combos,547.44
+2872,86,Iste Thali,Beverages,622.45
+2873,34,Quae Special,Beverages,369.89
+2874,4,Molestiae Bowl,Breads,120.94
+2875,59,Nihil Thali,Main Course,140.21
+2876,92,Sequi Combo,Breads,704.98
+2877,40,Voluptate Platter,Sides,464.97
+2878,11,Expedita Thali,Breads,348.17
+2879,114,Harum Bowl,Rice & Biryani,156.28
+2880,88,Nam Deluxe,Starters,199.01
+2881,96,Laboriosam Combo,Breads,472.16
+2882,68,Impedit Bowl,Starters,650.19
+2883,47,Odio Bowl,Rice & Biryani,570.27
+2884,68,Deleniti Deluxe,Beverages,169.06
+2885,88,Deserunt Deluxe,Rice & Biryani,682.43
+2886,97,Neque Wrap,Breads,455.62
+2887,79,Sed Platter,Rice & Biryani,258.82
+2888,52,Voluptates Combo,Sides,725.72
+2889,54,Quam Platter,Combos,291.44
+2890,93,In Combo,Starters,106.15
+2891,91,Voluptates Bowl,Desserts,206.57
+2892,94,Quo Bowl,Main Course,94.42
+2893,53,Ipsam Deluxe,Breads,410.7
+2894,21,Quod Thali,Rice & Biryani,343.43
+2895,21,Suscipit Wrap,Sides,343.25
+2896,25,Esse Deluxe,Beverages,102.9
+2897,36,Eligendi Deluxe,Sides,142.6
+2898,95,Eos Bowl,Breads,204.37
+2899,19,Soluta Wrap,Desserts,620.44
+2900,2,Illum Wrap,Main Course,440.47
+2901,68,Vitae Special,Combos,224.14
+2902,57,Laborum Combo,Main Course,455.94
+2903,79,Veniam Platter,Breads,102.8
+2904,97,Delectus Wrap,Beverages,706.43
+2905,6,Voluptatum Platter,Desserts,134.63
+2906,60,Totam Platter,Breads,707.18
+2907,89,Dolorum Thali,Combos,618.84
+2908,29,Provident Bowl,Main Course,116.43
+2909,94,Quis Bowl,Beverages,230.97
+2910,109,Voluptate Wrap,Combos,677.53
+2911,56,Tempore Platter,Starters,528.54
+2912,111,Iste Thali,Desserts,681.74
+2913,94,Voluptatum Combo,Desserts,530.2
+2914,43,Cum Platter,Desserts,787.31
+2915,11,Libero Special,Main Course,584.82
+2916,63,Ratione Deluxe,Combos,216.04
+2917,56,Perferendis Wrap,Desserts,127.97
+2918,100,Reprehenderit Thali,Combos,470.5
+2919,108,Rem Bowl,Sides,504.97
+2920,112,Vel Wrap,Sides,81.58
+2921,14,Voluptatum Bowl,Main Course,481.72
+2922,16,Nesciunt Thali,Rice & Biryani,320.53
+2923,87,Veniam Wrap,Sides,661.46
+2924,92,Quibusdam Wrap,Starters,310.48
+2925,101,Illo Platter,Combos,480.01
+2926,67,Nisi Special,Sides,659.87
+2927,81,Accusantium Wrap,Sides,551.8
+2928,4,Quasi Deluxe,Breads,68.11
+2929,43,Corrupti Special,Desserts,740.5
+2930,103,Alias Special,Combos,687.07
+2931,33,Modi Combo,Beverages,314.28
+2932,32,Dignissimos Combo,Combos,637.78
+2933,42,Asperiores Platter,Desserts,626.46
+2934,21,Velit Deluxe,Beverages,605.53
+2935,97,Aspernatur Combo,Breads,683.54
+2936,110,Eligendi Special,Beverages,313.85
+2937,69,Fugiat Wrap,Rice & Biryani,287.4
+2938,40,Dolorem Special,Main Course,529.59
+2939,41,Illo Bowl,Combos,529.61
+2940,97,Vero Platter,Rice & Biryani,248.51
+2941,91,Explicabo Platter,Beverages,302.75
+2942,57,Dignissimos Combo,Breads,769.48
+2943,42,Assumenda Special,Main Course,192.34
+2944,40,Voluptas Bowl,Desserts,617.58
+2945,69,Impedit Deluxe,Sides,513.85
+2946,10,Enim Deluxe,Main Course,117.91
+2947,77,Quis Wrap,Sides,689.16
+2948,19,Aliquid Wrap,Beverages,449.62
+2949,51,Magnam Deluxe,Sides,127.72
+2950,95,Odio Thali,Desserts,510.07
+2951,11,Corporis Combo,Rice & Biryani,381.9
+2952,6,Sint Deluxe,Breads,550.64
+2953,36,Veniam Special,Combos,218.35
+2954,89,Ratione Deluxe,Rice & Biryani,706.35
+2955,57,Et Wrap,Rice & Biryani,159.03
+2956,38,Tenetur Deluxe,Starters,693.15
+2957,62,Ratione Thali,Combos,360.89
+2958,71,Molestias Bowl,Rice & Biryani,359.24
+2959,109,Ex Bowl,Sides,520.44
+2960,114,Quaerat Platter,Desserts,580.06
+2961,47,Voluptatem Thali,Desserts,373.49
+2962,47,Illo Deluxe,Beverages,455.28
+2963,10,Voluptate Wrap,Breads,291.25
+2964,106,Vel Wrap,Rice & Biryani,646.67
+2965,75,Architecto Deluxe,Main Course,785.76
+2966,101,Modi Bowl,Combos,451.52
+2967,14,Molestias Thali,Rice & Biryani,590.08
+2968,92,Nesciunt Wrap,Rice & Biryani,398.96
+2969,74,Vitae Thali,Starters,395.18
+2970,57,Ipsam Platter,Sides,98.49
+2971,22,Quod Special,Combos,469.25
+2972,8,Asperiores Combo,Combos,700.68
+2973,19,Accusantium Special,Beverages,99.06
+2974,93,Explicabo Combo,Desserts,760.51
+2975,94,Eligendi Special,Combos,373.12
+2976,98,Sit Deluxe,Sides,211.4
+2977,58,Numquam Combo,Desserts,297.9
+2978,73,Et Thali,Sides,158.17
+2979,70,Tempora Wrap,Beverages,697.05
+2980,79,Voluptatibus Special,Beverages,490.59
+2981,100,Voluptatum Special,Main Course,447.33
+2982,94,Tenetur Deluxe,Rice & Biryani,236.6
+2983,77,Maxime Thali,Breads,676.8
+2984,4,Repudiandae Wrap,Combos,596.5
+2985,43,Quisquam Special,Main Course,759.61
+2986,74,Sed Wrap,Sides,653.69
+2987,49,Eius Wrap,Combos,153.88
+2988,44,Earum Deluxe,Main Course,283.4
+2989,23,Impedit Wrap,Sides,709.3
+2990,64,Occaecati Special,Breads,245.38
+2991,26,Dolorum Deluxe,Beverages,789.23
+2992,82,Vero Special,Beverages,388.8
+2993,13,Autem Bowl,Desserts,65.3
+2994,78,Ea Special,Starters,562.03
+2995,13,Doloribus Deluxe,Starters,772.7
+2996,68,Quam Special,Starters,295.14
+2997,40,Cumque Special,Beverages,694.52
+2998,23,Minus Deluxe,Combos,186.34
+2999,28,Animi Combo,Main Course,704.07
+3000,117,Nobis Deluxe,Beverages,480.49
