@@ -1,4 +1,4 @@
-# FoodHub Analytics — Case Study
+﻿# FoodHub Analytics — Case Study
 
 > Portfolio write-up. Ready to paste into a portfolio site (e.g. `ash-analytics`).
 > All metrics are from a real run of the project's SQL against the generated dataset.
@@ -21,6 +21,10 @@ which customers to keep, and where operations break down.**
 | Revenue from returning customers | **92.8%** |
 | On-time delivery rate (45-min SLA) | **55.3%** |
 | Top RFM segment | **78 "Champions" → 18.6% of revenue** |
+
+## Dashboard
+![Executive Overview](screenshots/01-executive-overview.png)
+![Restaurant Performance](screenshots/04-restaurant-performance.png)
 
 ## Problem
 A food-delivery platform generates high-volume operational data (orders, riders,
@@ -73,3 +77,4 @@ dashboard design · reproducible pipelines.
 - Repo: `foodhub-analytics`
 - Key files: `sql/queries/` (analysis), `docs/optimization_results.md` (tuning),
   `powerbi/build_guide.md` (dashboard), `docs/data_quality_notes.md` (cleaning).
+

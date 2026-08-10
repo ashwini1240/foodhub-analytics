@@ -10,6 +10,17 @@ KPIs) → a Power BI star-schema model with ready-to-paste DAX.
 > SLAs — are the same ones used across e-commerce, subscriptions, and marketplaces.
 
 ---
+## Dashboard
+
+Four pages: revenue and growth, who's ordering and how often, delivery ops, and what's actually selling.
+
+![Executive Overview](docs/screenshots/01-executive-overview.png)
+![Customer Analytics](docs/screenshots/02-customer-analytics.png)
+![Operational Performance](docs/screenshots/03-operational-performance.png)
+![Restaurant Performance](docs/screenshots/04-restaurant-performance.png)
+
+Open `powerbi/foodhub-analytics.pbix` in Power BI Desktop for the live version with working filters and drill-through. `powerbi/build_guide.md` has the full build steps if you want to reproduce it.
+
 
 ## Problem statement
 A food-delivery marketplace needs to understand **where revenue comes from, which
